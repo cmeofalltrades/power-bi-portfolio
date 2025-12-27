@@ -1,0 +1,856 @@
+CheckID,CheckDate,DeviceID,ComplianceStatus,ComplianceScore,TopIssue
+C00001,2025-02-06,D001,Compliant,91,
+C00002,2025-02-13,D001,Compliant,96,
+C00003,2025-02-20,D001,Compliant,85,
+C00004,2025-02-27,D001,Compliant,100,
+C00005,2025-03-06,D001,Compliant,96,
+C00006,2025-03-13,D001,Compliant,96,
+C00007,2025-03-20,D001,Compliant,96,
+C00008,2025-03-27,D001,Non-Compliant,46,Encryption Off
+C00009,2025-04-03,D001,Non-Compliant,61,Encryption Off
+C00010,2025-04-10,D001,Non-Compliant,79,Missing Updates
+C00011,2025-04-17,D001,Non-Compliant,81,Antivirus Outdated
+C00012,2025-04-24,D001,Non-Compliant,45,Missing Updates
+C00013,2025-05-01,D001,Non-Compliant,52,Policy Not Applied
+C00014,2025-05-08,D001,Non-Compliant,67,Antivirus Outdated
+C00015,2025-05-15,D001,Compliant,97,
+C00016,2025-05-22,D001,Compliant,87,
+C00017,2025-05-29,D001,Compliant,90,
+C00018,2025-06-05,D001,Compliant,85,
+C00019,2025-06-12,D001,Compliant,99,
+C00020,2025-06-19,D001,Compliant,89,
+C00021,2025-06-26,D001,Compliant,100,
+C00022,2025-02-06,D002,Compliant,89,
+C00023,2025-02-13,D002,Compliant,89,
+C00024,2025-02-20,D002,Non-Compliant,81,Missing Updates
+C00025,2025-02-27,D002,Non-Compliant,48,Policy Not Applied
+C00026,2025-03-06,D002,Non-Compliant,52,Encryption Off
+C00027,2025-03-13,D002,Compliant,91,
+C00028,2025-03-20,D002,Compliant,92,
+C00029,2025-03-27,D002,Compliant,95,
+C00030,2025-04-03,D002,Compliant,98,
+C00031,2025-04-10,D002,Compliant,86,
+C00032,2025-04-17,D002,Compliant,96,
+C00033,2025-04-24,D002,Compliant,98,
+C00034,2025-05-01,D002,Compliant,89,
+C00035,2025-05-08,D002,Compliant,85,
+C00036,2025-05-15,D002,Compliant,90,
+C00037,2025-05-22,D002,Compliant,89,
+C00038,2025-05-29,D002,Compliant,100,
+C00039,2025-06-05,D002,Compliant,88,
+C00040,2025-06-12,D002,Compliant,95,
+C00041,2025-06-19,D002,Compliant,100,
+C00042,2025-06-26,D002,Compliant,88,
+C00043,2025-02-05,D003,Non-Compliant,52,Antivirus Outdated
+C00044,2025-02-12,D003,Compliant,88,
+C00045,2025-02-19,D003,Compliant,85,
+C00046,2025-02-26,D003,Compliant,87,
+C00047,2025-03-05,D003,Compliant,91,
+C00048,2025-03-12,D003,Compliant,99,
+C00049,2025-03-19,D003,Compliant,100,
+C00050,2025-03-26,D003,Compliant,92,
+C00051,2025-04-02,D003,Compliant,93,
+C00052,2025-04-09,D003,Compliant,91,
+C00053,2025-04-16,D003,Compliant,89,
+C00054,2025-04-23,D003,Compliant,97,
+C00055,2025-04-30,D003,Compliant,87,
+C00056,2025-05-07,D003,Compliant,98,
+C00057,2025-05-14,D003,Non-Compliant,82,Antivirus Outdated
+C00058,2025-05-21,D003,Non-Compliant,49,Antivirus Outdated
+C00059,2025-05-28,D003,Non-Compliant,48,Policy Not Applied
+C00060,2025-06-04,D003,Non-Compliant,46,Policy Not Applied
+C00061,2025-06-11,D003,Non-Compliant,50,Encryption Off
+C00062,2025-06-18,D003,Non-Compliant,67,Jailbreak/Root Detected
+C00063,2025-06-25,D003,Non-Compliant,66,Encryption Off
+C00064,2025-02-03,D004,Compliant,96,
+C00065,2025-02-10,D004,Non-Compliant,75,Policy Not Applied
+C00066,2025-02-17,D004,Non-Compliant,41,Policy Not Applied
+C00067,2025-02-24,D004,Non-Compliant,79,Antivirus Outdated
+C00068,2025-03-03,D004,Non-Compliant,44,Missing Updates
+C00069,2025-03-10,D004,Non-Compliant,54,Missing Updates
+C00070,2025-03-17,D004,Non-Compliant,57,Missing Updates
+C00071,2025-03-24,D004,Non-Compliant,51,Antivirus Outdated
+C00072,2025-03-31,D004,Non-Compliant,67,Antivirus Outdated
+C00073,2025-04-07,D004,Non-Compliant,74,Jailbreak/Root Detected
+C00074,2025-04-14,D004,Non-Compliant,84,Antivirus Outdated
+C00075,2025-04-21,D004,Non-Compliant,43,Encryption Off
+C00076,2025-04-28,D004,Non-Compliant,44,Antivirus Outdated
+C00077,2025-05-05,D004,Non-Compliant,80,Missing Updates
+C00078,2025-05-12,D004,Non-Compliant,45,Jailbreak/Root Detected
+C00079,2025-05-19,D004,Non-Compliant,44,Antivirus Outdated
+C00080,2025-05-26,D004,Non-Compliant,69,Missing Updates
+C00081,2025-06-02,D004,Non-Compliant,75,Policy Not Applied
+C00082,2025-06-09,D004,Non-Compliant,57,Jailbreak/Root Detected
+C00083,2025-06-16,D004,Non-Compliant,73,Encryption Off
+C00084,2025-06-23,D004,Non-Compliant,50,Antivirus Outdated
+C00085,2025-06-30,D004,Compliant,91,
+C00086,2025-02-03,D005,Compliant,91,
+C00087,2025-02-10,D005,Compliant,90,
+C00088,2025-02-17,D005,Compliant,85,
+C00089,2025-02-24,D005,Compliant,86,
+C00090,2025-03-03,D005,Non-Compliant,72,Jailbreak/Root Detected
+C00091,2025-03-10,D005,Non-Compliant,72,Policy Not Applied
+C00092,2025-03-17,D005,Non-Compliant,68,Missing Updates
+C00093,2025-03-24,D005,Non-Compliant,81,Policy Not Applied
+C00094,2025-03-31,D005,Non-Compliant,74,Policy Not Applied
+C00095,2025-04-07,D005,Non-Compliant,59,Encryption Off
+C00096,2025-04-14,D005,Non-Compliant,61,Encryption Off
+C00097,2025-04-21,D005,Non-Compliant,80,Encryption Off
+C00098,2025-04-28,D005,Non-Compliant,62,Missing Updates
+C00099,2025-05-05,D005,Non-Compliant,40,Missing Updates
+C00100,2025-05-12,D005,Non-Compliant,56,Policy Not Applied
+C00101,2025-05-19,D005,Non-Compliant,45,Policy Not Applied
+C00102,2025-05-26,D005,Non-Compliant,82,Antivirus Outdated
+C00103,2025-06-02,D005,Non-Compliant,84,Antivirus Outdated
+C00104,2025-06-09,D005,Compliant,90,
+C00105,2025-06-16,D005,Compliant,99,
+C00106,2025-06-23,D005,Non-Compliant,63,Antivirus Outdated
+C00107,2025-06-30,D005,Non-Compliant,75,Antivirus Outdated
+C00108,2025-02-02,D006,Compliant,94,
+C00109,2025-02-09,D006,Compliant,90,
+C00110,2025-02-16,D006,Non-Compliant,64,Missing Updates
+C00111,2025-02-23,D006,Non-Compliant,72,Encryption Off
+C00112,2025-03-02,D006,Non-Compliant,40,Missing Updates
+C00113,2025-03-09,D006,Non-Compliant,45,Encryption Off
+C00114,2025-03-16,D006,Non-Compliant,42,Policy Not Applied
+C00115,2025-03-23,D006,Compliant,94,
+C00116,2025-03-30,D006,Compliant,87,
+C00117,2025-04-06,D006,Compliant,89,
+C00118,2025-04-13,D006,Compliant,97,
+C00119,2025-04-20,D006,Compliant,100,
+C00120,2025-04-27,D006,Compliant,89,
+C00121,2025-05-04,D006,Non-Compliant,72,Policy Not Applied
+C00122,2025-05-11,D006,Non-Compliant,72,Encryption Off
+C00123,2025-05-18,D006,Non-Compliant,72,Jailbreak/Root Detected
+C00124,2025-05-25,D006,Non-Compliant,41,Jailbreak/Root Detected
+C00125,2025-06-01,D006,Non-Compliant,83,Encryption Off
+C00126,2025-06-08,D006,Compliant,86,
+C00127,2025-06-15,D006,Compliant,96,
+C00128,2025-06-22,D006,Compliant,97,
+C00129,2025-06-29,D006,Compliant,86,
+C00130,2025-02-06,D007,Non-Compliant,74,Encryption Off
+C00131,2025-02-13,D007,Non-Compliant,40,Policy Not Applied
+C00132,2025-02-20,D007,Non-Compliant,72,Jailbreak/Root Detected
+C00133,2025-02-27,D007,Non-Compliant,73,Missing Updates
+C00134,2025-03-06,D007,Non-Compliant,70,Antivirus Outdated
+C00135,2025-03-13,D007,Non-Compliant,56,Encryption Off
+C00136,2025-03-20,D007,Non-Compliant,53,Encryption Off
+C00137,2025-03-27,D007,Non-Compliant,69,Policy Not Applied
+C00138,2025-04-03,D007,Non-Compliant,44,Policy Not Applied
+C00139,2025-04-10,D007,Non-Compliant,58,Missing Updates
+C00140,2025-04-17,D007,Non-Compliant,81,Encryption Off
+C00141,2025-04-24,D007,Compliant,89,
+C00142,2025-05-01,D007,Compliant,94,
+C00143,2025-05-08,D007,Compliant,89,
+C00144,2025-05-15,D007,Non-Compliant,43,Policy Not Applied
+C00145,2025-05-22,D007,Non-Compliant,83,Missing Updates
+C00146,2025-05-29,D007,Non-Compliant,83,Policy Not Applied
+C00147,2025-06-05,D007,Non-Compliant,73,Antivirus Outdated
+C00148,2025-06-12,D007,Non-Compliant,69,Missing Updates
+C00149,2025-06-19,D007,Non-Compliant,75,Encryption Off
+C00150,2025-06-26,D007,Non-Compliant,45,Policy Not Applied
+C00151,2025-02-01,D008,Compliant,87,
+C00152,2025-02-08,D008,Compliant,99,
+C00153,2025-02-15,D008,Compliant,97,
+C00154,2025-02-22,D008,Compliant,91,
+C00155,2025-03-01,D008,Non-Compliant,45,Encryption Off
+C00156,2025-03-08,D008,Non-Compliant,56,Antivirus Outdated
+C00157,2025-03-15,D008,Non-Compliant,80,Jailbreak/Root Detected
+C00158,2025-03-22,D008,Non-Compliant,47,Antivirus Outdated
+C00159,2025-03-29,D008,Non-Compliant,71,Policy Not Applied
+C00160,2025-04-05,D008,Compliant,85,
+C00161,2025-04-12,D008,Compliant,99,
+C00162,2025-04-19,D008,Compliant,89,
+C00163,2025-04-26,D008,Compliant,97,
+C00164,2025-05-03,D008,Compliant,95,
+C00165,2025-05-10,D008,Non-Compliant,61,Policy Not Applied
+C00166,2025-05-17,D008,Non-Compliant,52,Missing Updates
+C00167,2025-05-24,D008,Non-Compliant,58,Antivirus Outdated
+C00168,2025-05-31,D008,Non-Compliant,65,Policy Not Applied
+C00169,2025-06-07,D008,Non-Compliant,77,Missing Updates
+C00170,2025-06-14,D008,Non-Compliant,67,Antivirus Outdated
+C00171,2025-06-21,D008,Non-Compliant,57,Missing Updates
+C00172,2025-06-28,D008,Compliant,94,
+C00173,2025-02-06,D009,Compliant,92,
+C00174,2025-02-13,D009,Compliant,98,
+C00175,2025-02-20,D009,Compliant,91,
+C00176,2025-02-27,D009,Compliant,98,
+C00177,2025-03-06,D009,Compliant,97,
+C00178,2025-03-13,D009,Compliant,91,
+C00179,2025-03-20,D009,Compliant,86,
+C00180,2025-03-27,D009,Compliant,98,
+C00181,2025-04-03,D009,Compliant,89,
+C00182,2025-04-10,D009,Compliant,94,
+C00183,2025-04-17,D009,Compliant,89,
+C00184,2025-04-24,D009,Compliant,98,
+C00185,2025-05-01,D009,Compliant,94,
+C00186,2025-05-08,D009,Compliant,93,
+C00187,2025-05-15,D009,Compliant,92,
+C00188,2025-05-22,D009,Compliant,97,
+C00189,2025-05-29,D009,Compliant,90,
+C00190,2025-06-05,D009,Non-Compliant,72,Policy Not Applied
+C00191,2025-06-12,D009,Non-Compliant,68,Antivirus Outdated
+C00192,2025-06-19,D009,Non-Compliant,68,Policy Not Applied
+C00193,2025-06-26,D009,Non-Compliant,52,Encryption Off
+C00194,2025-02-01,D010,Compliant,87,
+C00195,2025-02-08,D010,Compliant,96,
+C00196,2025-02-15,D010,Compliant,91,
+C00197,2025-02-22,D010,Compliant,98,
+C00198,2025-03-01,D010,Compliant,91,
+C00199,2025-03-08,D010,Compliant,95,
+C00200,2025-03-15,D010,Compliant,100,
+C00201,2025-03-22,D010,Compliant,96,
+C00202,2025-03-29,D010,Compliant,91,
+C00203,2025-04-05,D010,Compliant,92,
+C00204,2025-04-12,D010,Compliant,99,
+C00205,2025-04-19,D010,Compliant,94,
+C00206,2025-04-26,D010,Compliant,85,
+C00207,2025-05-03,D010,Compliant,98,
+C00208,2025-05-10,D010,Compliant,100,
+C00209,2025-05-17,D010,Compliant,100,
+C00210,2025-05-24,D010,Non-Compliant,65,Jailbreak/Root Detected
+C00211,2025-05-31,D010,Non-Compliant,68,Encryption Off
+C00212,2025-06-07,D010,Non-Compliant,54,Encryption Off
+C00213,2025-06-14,D010,Non-Compliant,83,Missing Updates
+C00214,2025-06-21,D010,Non-Compliant,84,Policy Not Applied
+C00215,2025-06-28,D010,Non-Compliant,42,Missing Updates
+C00216,2025-02-07,D011,Compliant,86,
+C00217,2025-02-14,D011,Compliant,94,
+C00218,2025-02-21,D011,Compliant,93,
+C00219,2025-02-28,D011,Compliant,98,
+C00220,2025-03-07,D011,Compliant,88,
+C00221,2025-03-14,D011,Compliant,94,
+C00222,2025-03-21,D011,Compliant,91,
+C00223,2025-03-28,D011,Compliant,92,
+C00224,2025-04-04,D011,Compliant,85,
+C00225,2025-04-11,D011,Non-Compliant,59,Policy Not Applied
+C00226,2025-04-18,D011,Non-Compliant,60,Encryption Off
+C00227,2025-04-25,D011,Non-Compliant,55,Jailbreak/Root Detected
+C00228,2025-05-02,D011,Non-Compliant,66,Antivirus Outdated
+C00229,2025-05-09,D011,Compliant,91,
+C00230,2025-05-16,D011,Compliant,98,
+C00231,2025-05-23,D011,Compliant,92,
+C00232,2025-05-30,D011,Compliant,96,
+C00233,2025-06-06,D011,Compliant,86,
+C00234,2025-06-13,D011,Compliant,98,
+C00235,2025-06-20,D011,Compliant,97,
+C00236,2025-06-27,D011,Compliant,94,
+C00237,2025-02-06,D012,Compliant,87,
+C00238,2025-02-13,D012,Compliant,91,
+C00239,2025-02-20,D012,Compliant,91,
+C00240,2025-02-27,D012,Compliant,92,
+C00241,2025-03-06,D012,Compliant,94,
+C00242,2025-03-13,D012,Compliant,100,
+C00243,2025-03-20,D012,Compliant,92,
+C00244,2025-03-27,D012,Compliant,86,
+C00245,2025-04-03,D012,Compliant,89,
+C00246,2025-04-10,D012,Compliant,86,
+C00247,2025-04-17,D012,Compliant,89,
+C00248,2025-04-24,D012,Compliant,86,
+C00249,2025-05-01,D012,Compliant,99,
+C00250,2025-05-08,D012,Compliant,95,
+C00251,2025-05-15,D012,Compliant,87,
+C00252,2025-05-22,D012,Compliant,95,
+C00253,2025-05-29,D012,Compliant,99,
+C00254,2025-06-05,D012,Non-Compliant,82,Policy Not Applied
+C00255,2025-06-12,D012,Non-Compliant,61,Policy Not Applied
+C00256,2025-06-19,D012,Non-Compliant,40,Missing Updates
+C00257,2025-06-26,D012,Non-Compliant,62,Policy Not Applied
+C00258,2025-02-01,D013,Compliant,91,
+C00259,2025-02-08,D013,Compliant,94,
+C00260,2025-02-15,D013,Compliant,98,
+C00261,2025-02-22,D013,Non-Compliant,70,Encryption Off
+C00262,2025-03-01,D013,Non-Compliant,68,Encryption Off
+C00263,2025-03-08,D013,Non-Compliant,70,Missing Updates
+C00264,2025-03-15,D013,Non-Compliant,55,Policy Not Applied
+C00265,2025-03-22,D013,Compliant,86,
+C00266,2025-03-29,D013,Compliant,86,
+C00267,2025-04-05,D013,Compliant,87,
+C00268,2025-04-12,D013,Compliant,95,
+C00269,2025-04-19,D013,Compliant,95,
+C00270,2025-04-26,D013,Compliant,86,
+C00271,2025-05-03,D013,Compliant,95,
+C00272,2025-05-10,D013,Compliant,94,
+C00273,2025-05-17,D013,Non-Compliant,78,Missing Updates
+C00274,2025-05-24,D013,Compliant,92,
+C00275,2025-05-31,D013,Non-Compliant,69,Policy Not Applied
+C00276,2025-06-07,D013,Non-Compliant,67,Policy Not Applied
+C00277,2025-06-14,D013,Non-Compliant,71,Encryption Off
+C00278,2025-06-21,D013,Compliant,94,
+C00279,2025-06-28,D013,Compliant,89,
+C00280,2025-02-05,D014,Compliant,95,
+C00281,2025-02-12,D014,Compliant,87,
+C00282,2025-02-19,D014,Compliant,97,
+C00283,2025-02-26,D014,Compliant,92,
+C00284,2025-03-05,D014,Compliant,86,
+C00285,2025-03-12,D014,Compliant,95,
+C00286,2025-03-19,D014,Compliant,98,
+C00287,2025-03-26,D014,Compliant,87,
+C00288,2025-04-02,D014,Compliant,87,
+C00289,2025-04-09,D014,Compliant,98,
+C00290,2025-04-16,D014,Compliant,99,
+C00291,2025-04-23,D014,Compliant,89,
+C00292,2025-04-30,D014,Compliant,92,
+C00293,2025-05-07,D014,Compliant,88,
+C00294,2025-05-14,D014,Compliant,94,
+C00295,2025-05-21,D014,Compliant,93,
+C00296,2025-05-28,D014,Compliant,93,
+C00297,2025-06-04,D014,Compliant,92,
+C00298,2025-06-11,D014,Compliant,92,
+C00299,2025-06-18,D014,Compliant,91,
+C00300,2025-06-25,D014,Compliant,97,
+C00301,2025-02-03,D015,Non-Compliant,72,Jailbreak/Root Detected
+C00302,2025-02-10,D015,Non-Compliant,46,Policy Not Applied
+C00303,2025-02-17,D015,Non-Compliant,46,Missing Updates
+C00304,2025-02-24,D015,Non-Compliant,54,Policy Not Applied
+C00305,2025-03-03,D015,Non-Compliant,42,Antivirus Outdated
+C00306,2025-03-10,D015,Non-Compliant,43,Encryption Off
+C00307,2025-03-17,D015,Non-Compliant,77,Encryption Off
+C00308,2025-03-24,D015,Non-Compliant,63,Jailbreak/Root Detected
+C00309,2025-03-31,D015,Non-Compliant,68,Jailbreak/Root Detected
+C00310,2025-04-07,D015,Non-Compliant,82,Missing Updates
+C00311,2025-04-14,D015,Non-Compliant,78,Jailbreak/Root Detected
+C00312,2025-04-21,D015,Non-Compliant,42,Antivirus Outdated
+C00313,2025-04-28,D015,Non-Compliant,42,Encryption Off
+C00314,2025-05-05,D015,Non-Compliant,42,Jailbreak/Root Detected
+C00315,2025-05-12,D015,Non-Compliant,53,Missing Updates
+C00316,2025-05-19,D015,Non-Compliant,66,Antivirus Outdated
+C00317,2025-05-26,D015,Non-Compliant,59,Missing Updates
+C00318,2025-06-02,D015,Non-Compliant,71,Jailbreak/Root Detected
+C00319,2025-06-09,D015,Non-Compliant,66,Missing Updates
+C00320,2025-06-16,D015,Non-Compliant,82,Jailbreak/Root Detected
+C00321,2025-06-23,D015,Non-Compliant,74,Missing Updates
+C00322,2025-06-30,D015,Non-Compliant,65,Antivirus Outdated
+C00323,2025-02-04,D016,Compliant,94,
+C00324,2025-02-11,D016,Compliant,86,
+C00325,2025-02-18,D016,Compliant,96,
+C00326,2025-02-25,D016,Compliant,85,
+C00327,2025-03-04,D016,Compliant,96,
+C00328,2025-03-11,D016,Compliant,97,
+C00329,2025-03-18,D016,Compliant,91,
+C00330,2025-03-25,D016,Compliant,98,
+C00331,2025-04-01,D016,Compliant,98,
+C00332,2025-04-08,D016,Compliant,87,
+C00333,2025-04-15,D016,Compliant,96,
+C00334,2025-04-22,D016,Compliant,90,
+C00335,2025-04-29,D016,Compliant,86,
+C00336,2025-05-06,D016,Compliant,97,
+C00337,2025-05-13,D016,Compliant,96,
+C00338,2025-05-20,D016,Compliant,90,
+C00339,2025-05-27,D016,Compliant,94,
+C00340,2025-06-03,D016,Compliant,90,
+C00341,2025-06-10,D016,Compliant,88,
+C00342,2025-06-17,D016,Compliant,91,
+C00343,2025-06-24,D016,Compliant,86,
+C00344,2025-02-04,D017,Compliant,97,
+C00345,2025-02-11,D017,Non-Compliant,79,Encryption Off
+C00346,2025-02-18,D017,Non-Compliant,54,Jailbreak/Root Detected
+C00347,2025-02-25,D017,Non-Compliant,52,Policy Not Applied
+C00348,2025-03-04,D017,Non-Compliant,53,Missing Updates
+C00349,2025-03-11,D017,Non-Compliant,73,Encryption Off
+C00350,2025-03-18,D017,Non-Compliant,47,Encryption Off
+C00351,2025-03-25,D017,Non-Compliant,52,Missing Updates
+C00352,2025-04-01,D017,Non-Compliant,83,Missing Updates
+C00353,2025-04-08,D017,Non-Compliant,60,Missing Updates
+C00354,2025-04-15,D017,Non-Compliant,69,Jailbreak/Root Detected
+C00355,2025-04-22,D017,Non-Compliant,59,Policy Not Applied
+C00356,2025-04-29,D017,Non-Compliant,55,Policy Not Applied
+C00357,2025-05-06,D017,Non-Compliant,63,Policy Not Applied
+C00358,2025-05-13,D017,Non-Compliant,51,Missing Updates
+C00359,2025-05-20,D017,Compliant,100,
+C00360,2025-05-27,D017,Compliant,99,
+C00361,2025-06-03,D017,Compliant,99,
+C00362,2025-06-10,D017,Compliant,100,
+C00363,2025-06-17,D017,Compliant,87,
+C00364,2025-06-24,D017,Compliant,98,
+C00365,2025-02-03,D018,Compliant,99,
+C00366,2025-02-10,D018,Compliant,86,
+C00367,2025-02-17,D018,Non-Compliant,48,Missing Updates
+C00368,2025-02-24,D018,Non-Compliant,60,Jailbreak/Root Detected
+C00369,2025-03-03,D018,Compliant,97,
+C00370,2025-03-10,D018,Compliant,89,
+C00371,2025-03-17,D018,Non-Compliant,44,Jailbreak/Root Detected
+C00372,2025-03-24,D018,Non-Compliant,47,Encryption Off
+C00373,2025-03-31,D018,Non-Compliant,71,Antivirus Outdated
+C00374,2025-04-07,D018,Non-Compliant,50,Encryption Off
+C00375,2025-04-14,D018,Compliant,96,
+C00376,2025-04-21,D018,Compliant,93,
+C00377,2025-04-28,D018,Compliant,93,
+C00378,2025-05-05,D018,Compliant,99,
+C00379,2025-05-12,D018,Compliant,100,
+C00380,2025-05-19,D018,Compliant,93,
+C00381,2025-05-26,D018,Compliant,92,
+C00382,2025-06-02,D018,Compliant,86,
+C00383,2025-06-09,D018,Compliant,97,
+C00384,2025-06-16,D018,Compliant,93,
+C00385,2025-06-23,D018,Compliant,97,
+C00386,2025-06-30,D018,Compliant,93,
+C00387,2025-02-01,D019,Compliant,86,
+C00388,2025-02-08,D019,Compliant,96,
+C00389,2025-02-15,D019,Compliant,99,
+C00390,2025-02-22,D019,Compliant,88,
+C00391,2025-03-01,D019,Compliant,97,
+C00392,2025-03-08,D019,Compliant,96,
+C00393,2025-03-15,D019,Compliant,96,
+C00394,2025-03-22,D019,Compliant,96,
+C00395,2025-03-29,D019,Compliant,87,
+C00396,2025-04-05,D019,Compliant,90,
+C00397,2025-04-12,D019,Compliant,86,
+C00398,2025-04-19,D019,Compliant,93,
+C00399,2025-04-26,D019,Compliant,95,
+C00400,2025-05-03,D019,Compliant,86,
+C00401,2025-05-10,D019,Compliant,94,
+C00402,2025-05-17,D019,Compliant,98,
+C00403,2025-05-24,D019,Compliant,96,
+C00404,2025-05-31,D019,Compliant,89,
+C00405,2025-06-07,D019,Compliant,86,
+C00406,2025-06-14,D019,Non-Compliant,40,Jailbreak/Root Detected
+C00407,2025-06-21,D019,Non-Compliant,46,Jailbreak/Root Detected
+C00408,2025-06-28,D019,Non-Compliant,54,Policy Not Applied
+C00409,2025-02-05,D020,Non-Compliant,48,Encryption Off
+C00410,2025-02-12,D020,Non-Compliant,70,Encryption Off
+C00411,2025-02-19,D020,Non-Compliant,55,Encryption Off
+C00412,2025-02-26,D020,Non-Compliant,44,Encryption Off
+C00413,2025-03-05,D020,Non-Compliant,57,Policy Not Applied
+C00414,2025-03-12,D020,Non-Compliant,40,Missing Updates
+C00415,2025-03-19,D020,Non-Compliant,75,Antivirus Outdated
+C00416,2025-03-26,D020,Non-Compliant,77,Policy Not Applied
+C00417,2025-04-02,D020,Non-Compliant,73,Policy Not Applied
+C00418,2025-04-09,D020,Non-Compliant,40,Missing Updates
+C00419,2025-04-16,D020,Compliant,85,
+C00420,2025-04-23,D020,Compliant,92,
+C00421,2025-04-30,D020,Compliant,88,
+C00422,2025-05-07,D020,Non-Compliant,75,Encryption Off
+C00423,2025-05-14,D020,Non-Compliant,52,Jailbreak/Root Detected
+C00424,2025-05-21,D020,Non-Compliant,72,Policy Not Applied
+C00425,2025-05-28,D020,Non-Compliant,51,Jailbreak/Root Detected
+C00426,2025-06-04,D020,Non-Compliant,59,Missing Updates
+C00427,2025-06-11,D020,Non-Compliant,70,Jailbreak/Root Detected
+C00428,2025-06-18,D020,Compliant,98,
+C00429,2025-06-25,D020,Compliant,99,
+C00430,2025-02-01,D021,Compliant,99,
+C00431,2025-02-08,D021,Compliant,88,
+C00432,2025-02-15,D021,Compliant,86,
+C00433,2025-02-22,D021,Compliant,93,
+C00434,2025-03-01,D021,Compliant,93,
+C00435,2025-03-08,D021,Compliant,98,
+C00436,2025-03-15,D021,Compliant,93,
+C00437,2025-03-22,D021,Compliant,91,
+C00438,2025-03-29,D021,Compliant,85,
+C00439,2025-04-05,D021,Compliant,92,
+C00440,2025-04-12,D021,Compliant,91,
+C00441,2025-04-19,D021,Compliant,95,
+C00442,2025-04-26,D021,Compliant,97,
+C00443,2025-05-03,D021,Compliant,92,
+C00444,2025-05-10,D021,Compliant,100,
+C00445,2025-05-17,D021,Compliant,85,
+C00446,2025-05-24,D021,Compliant,98,
+C00447,2025-05-31,D021,Compliant,92,
+C00448,2025-06-07,D021,Compliant,94,
+C00449,2025-06-14,D021,Compliant,97,
+C00450,2025-06-21,D021,Compliant,87,
+C00451,2025-06-28,D021,Compliant,90,
+C00452,2025-02-02,D022,Non-Compliant,47,Missing Updates
+C00453,2025-02-09,D022,Non-Compliant,50,Antivirus Outdated
+C00454,2025-02-16,D022,Non-Compliant,84,Missing Updates
+C00455,2025-02-23,D022,Compliant,89,
+C00456,2025-03-02,D022,Compliant,86,
+C00457,2025-03-09,D022,Compliant,86,
+C00458,2025-03-16,D022,Non-Compliant,77,Antivirus Outdated
+C00459,2025-03-23,D022,Non-Compliant,74,Missing Updates
+C00460,2025-03-30,D022,Non-Compliant,64,Missing Updates
+C00461,2025-04-06,D022,Non-Compliant,53,Missing Updates
+C00462,2025-04-13,D022,Compliant,87,
+C00463,2025-04-20,D022,Compliant,94,
+C00464,2025-04-27,D022,Compliant,89,
+C00465,2025-05-04,D022,Compliant,91,
+C00466,2025-05-11,D022,Compliant,95,
+C00467,2025-05-18,D022,Compliant,85,
+C00468,2025-05-25,D022,Compliant,94,
+C00469,2025-06-01,D022,Non-Compliant,63,Antivirus Outdated
+C00470,2025-06-08,D022,Non-Compliant,78,Jailbreak/Root Detected
+C00471,2025-06-15,D022,Non-Compliant,58,Jailbreak/Root Detected
+C00472,2025-06-22,D022,Non-Compliant,66,Missing Updates
+C00473,2025-06-29,D022,Non-Compliant,46,Antivirus Outdated
+C00474,2025-02-04,D023,Compliant,91,
+C00475,2025-02-11,D023,Compliant,87,
+C00476,2025-02-18,D023,Compliant,94,
+C00477,2025-02-25,D023,Compliant,85,
+C00478,2025-03-04,D023,Compliant,94,
+C00479,2025-03-11,D023,Compliant,86,
+C00480,2025-03-18,D023,Non-Compliant,71,Missing Updates
+C00481,2025-03-25,D023,Non-Compliant,51,Policy Not Applied
+C00482,2025-04-01,D023,Non-Compliant,72,Antivirus Outdated
+C00483,2025-04-08,D023,Non-Compliant,50,Antivirus Outdated
+C00484,2025-04-15,D023,Non-Compliant,84,Encryption Off
+C00485,2025-04-22,D023,Non-Compliant,47,Missing Updates
+C00486,2025-04-29,D023,Non-Compliant,84,Jailbreak/Root Detected
+C00487,2025-05-06,D023,Non-Compliant,80,Antivirus Outdated
+C00488,2025-05-13,D023,Non-Compliant,65,Policy Not Applied
+C00489,2025-05-20,D023,Non-Compliant,45,Policy Not Applied
+C00490,2025-05-27,D023,Non-Compliant,41,Antivirus Outdated
+C00491,2025-06-03,D023,Non-Compliant,56,Policy Not Applied
+C00492,2025-06-10,D023,Non-Compliant,72,Encryption Off
+C00493,2025-06-17,D023,Non-Compliant,80,Encryption Off
+C00494,2025-06-24,D023,Non-Compliant,48,Jailbreak/Root Detected
+C00495,2025-02-05,D024,Non-Compliant,78,Missing Updates
+C00496,2025-02-12,D024,Non-Compliant,60,Jailbreak/Root Detected
+C00497,2025-02-19,D024,Non-Compliant,68,Jailbreak/Root Detected
+C00498,2025-02-26,D024,Non-Compliant,50,Policy Not Applied
+C00499,2025-03-05,D024,Non-Compliant,56,Jailbreak/Root Detected
+C00500,2025-03-12,D024,Non-Compliant,61,Policy Not Applied
+C00501,2025-03-19,D024,Non-Compliant,84,Encryption Off
+C00502,2025-03-26,D024,Non-Compliant,57,Antivirus Outdated
+C00503,2025-04-02,D024,Non-Compliant,79,Encryption Off
+C00504,2025-04-09,D024,Non-Compliant,55,Antivirus Outdated
+C00505,2025-04-16,D024,Non-Compliant,62,Encryption Off
+C00506,2025-04-23,D024,Non-Compliant,52,Antivirus Outdated
+C00507,2025-04-30,D024,Non-Compliant,46,Encryption Off
+C00508,2025-05-07,D024,Non-Compliant,46,Encryption Off
+C00509,2025-05-14,D024,Non-Compliant,49,Antivirus Outdated
+C00510,2025-05-21,D024,Non-Compliant,67,Antivirus Outdated
+C00511,2025-05-28,D024,Non-Compliant,80,Missing Updates
+C00512,2025-06-04,D024,Non-Compliant,64,Policy Not Applied
+C00513,2025-06-11,D024,Compliant,97,
+C00514,2025-06-18,D024,Compliant,98,
+C00515,2025-06-25,D024,Compliant,94,
+C00516,2025-02-04,D025,Non-Compliant,56,Jailbreak/Root Detected
+C00517,2025-02-11,D025,Non-Compliant,40,Encryption Off
+C00518,2025-02-18,D025,Non-Compliant,67,Jailbreak/Root Detected
+C00519,2025-02-25,D025,Non-Compliant,81,Policy Not Applied
+C00520,2025-03-04,D025,Non-Compliant,82,Jailbreak/Root Detected
+C00521,2025-03-11,D025,Non-Compliant,83,Encryption Off
+C00522,2025-03-18,D025,Non-Compliant,69,Policy Not Applied
+C00523,2025-03-25,D025,Non-Compliant,80,Missing Updates
+C00524,2025-04-01,D025,Non-Compliant,55,Policy Not Applied
+C00525,2025-04-08,D025,Non-Compliant,80,Encryption Off
+C00526,2025-04-15,D025,Non-Compliant,67,Policy Not Applied
+C00527,2025-04-22,D025,Non-Compliant,79,Policy Not Applied
+C00528,2025-04-29,D025,Non-Compliant,82,Encryption Off
+C00529,2025-05-06,D025,Non-Compliant,60,Missing Updates
+C00530,2025-05-13,D025,Non-Compliant,71,Missing Updates
+C00531,2025-05-20,D025,Compliant,91,
+C00532,2025-05-27,D025,Compliant,91,
+C00533,2025-06-03,D025,Compliant,88,
+C00534,2025-06-10,D025,Compliant,99,
+C00535,2025-06-17,D025,Compliant,100,
+C00536,2025-06-24,D025,Compliant,96,
+C00537,2025-02-05,D026,Compliant,99,
+C00538,2025-02-12,D026,Compliant,90,
+C00539,2025-02-19,D026,Compliant,88,
+C00540,2025-02-26,D026,Compliant,96,
+C00541,2025-03-05,D026,Compliant,93,
+C00542,2025-03-12,D026,Compliant,97,
+C00543,2025-03-19,D026,Non-Compliant,44,Policy Not Applied
+C00544,2025-03-26,D026,Non-Compliant,80,Antivirus Outdated
+C00545,2025-04-02,D026,Non-Compliant,46,Encryption Off
+C00546,2025-04-09,D026,Non-Compliant,65,Jailbreak/Root Detected
+C00547,2025-04-16,D026,Non-Compliant,65,Policy Not Applied
+C00548,2025-04-23,D026,Non-Compliant,48,Missing Updates
+C00549,2025-04-30,D026,Non-Compliant,80,Encryption Off
+C00550,2025-05-07,D026,Non-Compliant,75,Encryption Off
+C00551,2025-05-14,D026,Non-Compliant,49,Antivirus Outdated
+C00552,2025-05-21,D026,Non-Compliant,66,Policy Not Applied
+C00553,2025-05-28,D026,Non-Compliant,75,Encryption Off
+C00554,2025-06-04,D026,Non-Compliant,70,Antivirus Outdated
+C00555,2025-06-11,D026,Non-Compliant,54,Antivirus Outdated
+C00556,2025-06-18,D026,Non-Compliant,83,Antivirus Outdated
+C00557,2025-06-25,D026,Non-Compliant,83,Encryption Off
+C00558,2025-02-04,D027,Non-Compliant,57,Antivirus Outdated
+C00559,2025-02-11,D027,Non-Compliant,59,Antivirus Outdated
+C00560,2025-02-18,D027,Non-Compliant,67,Jailbreak/Root Detected
+C00561,2025-02-25,D027,Non-Compliant,82,Antivirus Outdated
+C00562,2025-03-04,D027,Non-Compliant,59,Policy Not Applied
+C00563,2025-03-11,D027,Compliant,95,
+C00564,2025-03-18,D027,Compliant,89,
+C00565,2025-03-25,D027,Compliant,96,
+C00566,2025-04-01,D027,Compliant,85,
+C00567,2025-04-08,D027,Compliant,91,
+C00568,2025-04-15,D027,Compliant,94,
+C00569,2025-04-22,D027,Compliant,88,
+C00570,2025-04-29,D027,Compliant,92,
+C00571,2025-05-06,D027,Compliant,99,
+C00572,2025-05-13,D027,Compliant,89,
+C00573,2025-05-20,D027,Compliant,97,
+C00574,2025-05-27,D027,Compliant,90,
+C00575,2025-06-03,D027,Compliant,87,
+C00576,2025-06-10,D027,Compliant,94,
+C00577,2025-06-17,D027,Compliant,91,
+C00578,2025-06-24,D027,Compliant,99,
+C00579,2025-02-06,D028,Compliant,88,
+C00580,2025-02-13,D028,Compliant,92,
+C00581,2025-02-20,D028,Compliant,100,
+C00582,2025-02-27,D028,Compliant,86,
+C00583,2025-03-06,D028,Compliant,89,
+C00584,2025-03-13,D028,Compliant,92,
+C00585,2025-03-20,D028,Compliant,85,
+C00586,2025-03-27,D028,Compliant,95,
+C00587,2025-04-03,D028,Compliant,100,
+C00588,2025-04-10,D028,Compliant,99,
+C00589,2025-04-17,D028,Compliant,98,
+C00590,2025-04-24,D028,Compliant,87,
+C00591,2025-05-01,D028,Compliant,96,
+C00592,2025-05-08,D028,Compliant,85,
+C00593,2025-05-15,D028,Non-Compliant,42,Antivirus Outdated
+C00594,2025-05-22,D028,Non-Compliant,46,Jailbreak/Root Detected
+C00595,2025-05-29,D028,Non-Compliant,49,Missing Updates
+C00596,2025-06-05,D028,Non-Compliant,66,Encryption Off
+C00597,2025-06-12,D028,Non-Compliant,82,Antivirus Outdated
+C00598,2025-06-19,D028,Non-Compliant,73,Jailbreak/Root Detected
+C00599,2025-06-26,D028,Non-Compliant,53,Antivirus Outdated
+C00600,2025-02-04,D029,Non-Compliant,56,Jailbreak/Root Detected
+C00601,2025-02-11,D029,Compliant,94,
+C00602,2025-02-18,D029,Compliant,100,
+C00603,2025-02-25,D029,Compliant,93,
+C00604,2025-03-04,D029,Compliant,96,
+C00605,2025-03-11,D029,Compliant,100,
+C00606,2025-03-18,D029,Compliant,95,
+C00607,2025-03-25,D029,Compliant,94,
+C00608,2025-04-01,D029,Compliant,87,
+C00609,2025-04-08,D029,Compliant,86,
+C00610,2025-04-15,D029,Compliant,97,
+C00611,2025-04-22,D029,Compliant,86,
+C00612,2025-04-29,D029,Compliant,88,
+C00613,2025-05-06,D029,Non-Compliant,52,Policy Not Applied
+C00614,2025-05-13,D029,Non-Compliant,82,Missing Updates
+C00615,2025-05-20,D029,Non-Compliant,74,Jailbreak/Root Detected
+C00616,2025-05-27,D029,Non-Compliant,49,Jailbreak/Root Detected
+C00617,2025-06-03,D029,Non-Compliant,45,Encryption Off
+C00618,2025-06-10,D029,Compliant,99,
+C00619,2025-06-17,D029,Compliant,90,
+C00620,2025-06-24,D029,Compliant,90,
+C00621,2025-02-07,D030,Non-Compliant,46,Missing Updates
+C00622,2025-02-14,D030,Non-Compliant,48,Antivirus Outdated
+C00623,2025-02-21,D030,Non-Compliant,56,Antivirus Outdated
+C00624,2025-02-28,D030,Non-Compliant,42,Antivirus Outdated
+C00625,2025-03-07,D030,Compliant,86,
+C00626,2025-03-14,D030,Compliant,86,
+C00627,2025-03-21,D030,Compliant,98,
+C00628,2025-03-28,D030,Compliant,97,
+C00629,2025-04-04,D030,Compliant,85,
+C00630,2025-04-11,D030,Compliant,89,
+C00631,2025-04-18,D030,Compliant,98,
+C00632,2025-04-25,D030,Compliant,87,
+C00633,2025-05-02,D030,Compliant,91,
+C00634,2025-05-09,D030,Compliant,85,
+C00635,2025-05-16,D030,Compliant,85,
+C00636,2025-05-23,D030,Compliant,88,
+C00637,2025-05-30,D030,Compliant,87,
+C00638,2025-06-06,D030,Compliant,88,
+C00639,2025-06-13,D030,Compliant,85,
+C00640,2025-06-20,D030,Compliant,92,
+C00641,2025-06-27,D030,Compliant,90,
+C00642,2025-02-01,D031,Compliant,89,
+C00643,2025-02-08,D031,Compliant,87,
+C00644,2025-02-15,D031,Compliant,100,
+C00645,2025-02-22,D031,Compliant,93,
+C00646,2025-03-01,D031,Compliant,86,
+C00647,2025-03-08,D031,Compliant,85,
+C00648,2025-03-15,D031,Non-Compliant,81,Jailbreak/Root Detected
+C00649,2025-03-22,D031,Compliant,94,
+C00650,2025-03-29,D031,Compliant,90,
+C00651,2025-04-05,D031,Compliant,100,
+C00652,2025-04-12,D031,Compliant,95,
+C00653,2025-04-19,D031,Compliant,99,
+C00654,2025-04-26,D031,Compliant,90,
+C00655,2025-05-03,D031,Compliant,88,
+C00656,2025-05-10,D031,Compliant,90,
+C00657,2025-05-17,D031,Compliant,98,
+C00658,2025-05-24,D031,Compliant,99,
+C00659,2025-05-31,D031,Compliant,95,
+C00660,2025-06-07,D031,Compliant,86,
+C00661,2025-06-14,D031,Compliant,95,
+C00662,2025-06-21,D031,Compliant,85,
+C00663,2025-06-28,D031,Compliant,94,
+C00664,2025-02-05,D032,Non-Compliant,55,Policy Not Applied
+C00665,2025-02-12,D032,Non-Compliant,64,Jailbreak/Root Detected
+C00666,2025-02-19,D032,Non-Compliant,54,Policy Not Applied
+C00667,2025-02-26,D032,Non-Compliant,40,Antivirus Outdated
+C00668,2025-03-05,D032,Non-Compliant,67,Encryption Off
+C00669,2025-03-12,D032,Non-Compliant,42,Antivirus Outdated
+C00670,2025-03-19,D032,Non-Compliant,76,Encryption Off
+C00671,2025-03-26,D032,Non-Compliant,75,Policy Not Applied
+C00672,2025-04-02,D032,Non-Compliant,45,Jailbreak/Root Detected
+C00673,2025-04-09,D032,Non-Compliant,64,Encryption Off
+C00674,2025-04-16,D032,Non-Compliant,54,Antivirus Outdated
+C00675,2025-04-23,D032,Non-Compliant,83,Policy Not Applied
+C00676,2025-04-30,D032,Non-Compliant,53,Antivirus Outdated
+C00677,2025-05-07,D032,Non-Compliant,40,Policy Not Applied
+C00678,2025-05-14,D032,Non-Compliant,45,Jailbreak/Root Detected
+C00679,2025-05-21,D032,Non-Compliant,44,Encryption Off
+C00680,2025-05-28,D032,Non-Compliant,73,Antivirus Outdated
+C00681,2025-06-04,D032,Non-Compliant,73,Antivirus Outdated
+C00682,2025-06-11,D032,Non-Compliant,77,Encryption Off
+C00683,2025-06-18,D032,Non-Compliant,52,Missing Updates
+C00684,2025-06-25,D032,Non-Compliant,84,Antivirus Outdated
+C00685,2025-02-03,D033,Compliant,96,
+C00686,2025-02-10,D033,Compliant,89,
+C00687,2025-02-17,D033,Compliant,100,
+C00688,2025-02-24,D033,Compliant,88,
+C00689,2025-03-03,D033,Compliant,99,
+C00690,2025-03-10,D033,Compliant,89,
+C00691,2025-03-17,D033,Compliant,85,
+C00692,2025-03-24,D033,Compliant,85,
+C00693,2025-03-31,D033,Non-Compliant,53,Jailbreak/Root Detected
+C00694,2025-04-07,D033,Non-Compliant,76,Encryption Off
+C00695,2025-04-14,D033,Non-Compliant,57,Policy Not Applied
+C00696,2025-04-21,D033,Compliant,99,
+C00697,2025-04-28,D033,Compliant,89,
+C00698,2025-05-05,D033,Compliant,86,
+C00699,2025-05-12,D033,Compliant,90,
+C00700,2025-05-19,D033,Compliant,85,
+C00701,2025-05-26,D033,Non-Compliant,75,Antivirus Outdated
+C00702,2025-06-02,D033,Non-Compliant,69,Policy Not Applied
+C00703,2025-06-09,D033,Non-Compliant,44,Jailbreak/Root Detected
+C00704,2025-06-16,D033,Non-Compliant,47,Missing Updates
+C00705,2025-06-23,D033,Non-Compliant,76,Encryption Off
+C00706,2025-06-30,D033,Non-Compliant,82,Jailbreak/Root Detected
+C00707,2025-02-04,D034,Compliant,90,
+C00708,2025-02-11,D034,Compliant,92,
+C00709,2025-02-18,D034,Compliant,92,
+C00710,2025-02-25,D034,Compliant,93,
+C00711,2025-03-04,D034,Compliant,86,
+C00712,2025-03-11,D034,Compliant,85,
+C00713,2025-03-18,D034,Compliant,86,
+C00714,2025-03-25,D034,Compliant,100,
+C00715,2025-04-01,D034,Non-Compliant,49,Antivirus Outdated
+C00716,2025-04-08,D034,Non-Compliant,52,Antivirus Outdated
+C00717,2025-04-15,D034,Non-Compliant,68,Missing Updates
+C00718,2025-04-22,D034,Non-Compliant,63,Antivirus Outdated
+C00719,2025-04-29,D034,Non-Compliant,63,Policy Not Applied
+C00720,2025-05-06,D034,Non-Compliant,68,Encryption Off
+C00721,2025-05-13,D034,Non-Compliant,83,Missing Updates
+C00722,2025-05-20,D034,Non-Compliant,52,Missing Updates
+C00723,2025-05-27,D034,Non-Compliant,54,Missing Updates
+C00724,2025-06-03,D034,Non-Compliant,63,Encryption Off
+C00725,2025-06-10,D034,Non-Compliant,46,Policy Not Applied
+C00726,2025-06-17,D034,Non-Compliant,80,Missing Updates
+C00727,2025-06-24,D034,Non-Compliant,61,Antivirus Outdated
+C00728,2025-02-07,D035,Compliant,88,
+C00729,2025-02-14,D035,Compliant,89,
+C00730,2025-02-21,D035,Compliant,86,
+C00731,2025-02-28,D035,Compliant,99,
+C00732,2025-03-07,D035,Compliant,89,
+C00733,2025-03-14,D035,Compliant,89,
+C00734,2025-03-21,D035,Compliant,98,
+C00735,2025-03-28,D035,Compliant,85,
+C00736,2025-04-04,D035,Compliant,94,
+C00737,2025-04-11,D035,Compliant,90,
+C00738,2025-04-18,D035,Compliant,88,
+C00739,2025-04-25,D035,Compliant,100,
+C00740,2025-05-02,D035,Compliant,86,
+C00741,2025-05-09,D035,Compliant,91,
+C00742,2025-05-16,D035,Compliant,94,
+C00743,2025-05-23,D035,Compliant,91,
+C00744,2025-05-30,D035,Compliant,98,
+C00745,2025-06-06,D035,Compliant,92,
+C00746,2025-06-13,D035,Compliant,88,
+C00747,2025-06-20,D035,Compliant,98,
+C00748,2025-06-27,D035,Compliant,86,
+C00749,2025-02-07,D036,Non-Compliant,58,Encryption Off
+C00750,2025-02-14,D036,Non-Compliant,41,Policy Not Applied
+C00751,2025-02-21,D036,Non-Compliant,61,Jailbreak/Root Detected
+C00752,2025-02-28,D036,Non-Compliant,40,Jailbreak/Root Detected
+C00753,2025-03-07,D036,Non-Compliant,63,Policy Not Applied
+C00754,2025-03-14,D036,Compliant,98,
+C00755,2025-03-21,D036,Compliant,90,
+C00756,2025-03-28,D036,Compliant,90,
+C00757,2025-04-04,D036,Compliant,92,
+C00758,2025-04-11,D036,Compliant,91,
+C00759,2025-04-18,D036,Compliant,87,
+C00760,2025-04-25,D036,Compliant,100,
+C00761,2025-05-02,D036,Compliant,90,
+C00762,2025-05-09,D036,Compliant,91,
+C00763,2025-05-16,D036,Compliant,91,
+C00764,2025-05-23,D036,Non-Compliant,84,Jailbreak/Root Detected
+C00765,2025-05-30,D036,Non-Compliant,43,Jailbreak/Root Detected
+C00766,2025-06-06,D036,Non-Compliant,61,Antivirus Outdated
+C00767,2025-06-13,D036,Non-Compliant,71,Missing Updates
+C00768,2025-06-20,D036,Compliant,100,
+C00769,2025-06-27,D036,Compliant,93,
+C00770,2025-02-02,D037,Compliant,96,
+C00771,2025-02-09,D037,Non-Compliant,84,Antivirus Outdated
+C00772,2025-02-16,D037,Non-Compliant,40,Antivirus Outdated
+C00773,2025-02-23,D037,Non-Compliant,68,Jailbreak/Root Detected
+C00774,2025-03-02,D037,Compliant,96,
+C00775,2025-03-09,D037,Compliant,95,
+C00776,2025-03-16,D037,Compliant,97,
+C00777,2025-03-23,D037,Compliant,86,
+C00778,2025-03-30,D037,Compliant,88,
+C00779,2025-04-06,D037,Compliant,100,
+C00780,2025-04-13,D037,Compliant,85,
+C00781,2025-04-20,D037,Compliant,89,
+C00782,2025-04-27,D037,Non-Compliant,45,Encryption Off
+C00783,2025-05-04,D037,Non-Compliant,50,Missing Updates
+C00784,2025-05-11,D037,Non-Compliant,75,Missing Updates
+C00785,2025-05-18,D037,Compliant,91,
+C00786,2025-05-25,D037,Compliant,99,
+C00787,2025-06-01,D037,Compliant,99,
+C00788,2025-06-08,D037,Non-Compliant,46,Encryption Off
+C00789,2025-06-15,D037,Compliant,88,
+C00790,2025-06-22,D037,Compliant,93,
+C00791,2025-06-29,D037,Compliant,88,
+C00792,2025-02-04,D038,Compliant,92,
+C00793,2025-02-11,D038,Compliant,89,
+C00794,2025-02-18,D038,Compliant,99,
+C00795,2025-02-25,D038,Compliant,90,
+C00796,2025-03-04,D038,Compliant,85,
+C00797,2025-03-11,D038,Compliant,97,
+C00798,2025-03-18,D038,Compliant,86,
+C00799,2025-03-25,D038,Compliant,86,
+C00800,2025-04-01,D038,Compliant,95,
+C00801,2025-04-08,D038,Compliant,95,
+C00802,2025-04-15,D038,Compliant,95,
+C00803,2025-04-22,D038,Compliant,86,
+C00804,2025-04-29,D038,Compliant,89,
+C00805,2025-05-06,D038,Compliant,96,
+C00806,2025-05-13,D038,Compliant,98,
+C00807,2025-05-20,D038,Compliant,85,
+C00808,2025-05-27,D038,Compliant,90,
+C00809,2025-06-03,D038,Non-Compliant,67,Encryption Off
+C00810,2025-06-10,D038,Non-Compliant,41,Encryption Off
+C00811,2025-06-17,D038,Non-Compliant,65,Policy Not Applied
+C00812,2025-06-24,D038,Non-Compliant,42,Missing Updates
+C00813,2025-02-07,D039,Compliant,93,
+C00814,2025-02-14,D039,Compliant,93,
+C00815,2025-02-21,D039,Compliant,86,
+C00816,2025-02-28,D039,Compliant,93,
+C00817,2025-03-07,D039,Compliant,85,
+C00818,2025-03-14,D039,Compliant,86,
+C00819,2025-03-21,D039,Compliant,94,
+C00820,2025-03-28,D039,Compliant,90,
+C00821,2025-04-04,D039,Compliant,93,
+C00822,2025-04-11,D039,Compliant,89,
+C00823,2025-04-18,D039,Compliant,89,
+C00824,2025-04-25,D039,Compliant,98,
+C00825,2025-05-02,D039,Compliant,93,
+C00826,2025-05-09,D039,Compliant,87,
+C00827,2025-05-16,D039,Compliant,94,
+C00828,2025-05-23,D039,Compliant,92,
+C00829,2025-05-30,D039,Compliant,91,
+C00830,2025-06-06,D039,Compliant,96,
+C00831,2025-06-13,D039,Compliant,94,
+C00832,2025-06-20,D039,Compliant,100,
+C00833,2025-06-27,D039,Compliant,85,
+C00834,2025-02-02,D040,Non-Compliant,52,Jailbreak/Root Detected
+C00835,2025-02-09,D040,Non-Compliant,77,Policy Not Applied
+C00836,2025-02-16,D040,Compliant,96,
+C00837,2025-02-23,D040,Compliant,92,
+C00838,2025-03-02,D040,Compliant,95,
+C00839,2025-03-09,D040,Compliant,94,
+C00840,2025-03-16,D040,Compliant,91,
+C00841,2025-03-23,D040,Compliant,85,
+C00842,2025-03-30,D040,Compliant,87,
+C00843,2025-04-06,D040,Compliant,96,
+C00844,2025-04-13,D040,Compliant,86,
+C00845,2025-04-20,D040,Compliant,99,
+C00846,2025-04-27,D040,Compliant,88,
+C00847,2025-05-04,D040,Compliant,89,
+C00848,2025-05-11,D040,Compliant,96,
+C00849,2025-05-18,D040,Compliant,91,
+C00850,2025-05-25,D040,Compliant,93,
+C00851,2025-06-01,D040,Compliant,88,
+C00852,2025-06-08,D040,Compliant,100,
+C00853,2025-06-15,D040,Compliant,89,
+C00854,2025-06-22,D040,Compliant,88,
+C00855,2025-06-29,D040,Non-Compliant,75,Jailbreak/Root Detected
