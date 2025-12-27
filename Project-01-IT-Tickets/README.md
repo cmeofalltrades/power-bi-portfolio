@@ -19,7 +19,7 @@ Analyze IT support tickets to identify trends in volume, priority, and resolutio
 - Star schema data model
 
 ## Screenshots
-Project-01-IT-Tickets/screenshots
+👉 [View Project](./Project-01-IT-Tickets/screenshots)
 
 ## Tools Used
 - Power BI Desktop
