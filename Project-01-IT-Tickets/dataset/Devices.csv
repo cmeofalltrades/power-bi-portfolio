@@ -1,0 +1,18 @@
+DeviceID,DeviceType,OS,Manufacturer,AssignedUserID,ComplianceStatus
+D001,Laptop,Windows 11,Dell,U001,Compliant
+D002,Desktop,Windows 10,HP,U002,Compliant
+D003,Mobile,iOS,Apple,U003,Non-Compliant
+D004,Laptop,Windows 11,Lenovo,U004,Compliant
+D005,Laptop,Windows 10,Dell,U005,Non-Compliant
+D006,Laptop,Windows 11,Microsoft,U005,Compliant
+D007,Desktop,macOS,Dell,U011,Compliant
+D008,Laptop,macOS,Apple,U001,Compliant
+D009,Desktop,Windows 11,Samsung,U010,Compliant
+D010,Desktop,macOS,Microsoft,U012,Compliant
+D011,Desktop,Windows 10,Samsung,U005,Non-Compliant
+D012,Laptop,Windows 11,Microsoft,U007,Compliant
+D013,Desktop,Windows 11,Lenovo,U002,Compliant
+D014,Laptop,Windows 10,Lenovo,U010,Compliant
+D015,Laptop,macOS,Apple,U009,Compliant
+D016,Tablet,Android,Samsung,U005,Non-Compliant
+D017,Mobile,Android,Microsoft,U002,Compliant
