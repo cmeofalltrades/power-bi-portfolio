@@ -30,5 +30,6 @@ This portfolio showcases Power BI projects focused on real-world business and IT
 ### 5. Executive KPI Dashboard *(Coming Soon)*
 
 ## Contact
+- Email: cmemerson12@gmail.com
 - LinkedIn: www.linkedin.com/in/cierra-emerson
 - GitHub: https://github.com/cmeofalltrades
