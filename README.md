@@ -1,8 +1,7 @@
 # Power BI Portfolio – Cierra Emerson
 
 ## About Me
-I am a data and IT professional with experience in reporting, dashboards, and endpoint analytics.
-This portfolio showcases Power BI projects focused on real-world business and IT use cases.
+I work across data, IT, and analytics, building solutions that help teams better understand systems, operations, and performance. My experience includes working with structured data, reporting, automation, and technical problem-solving across business and technology environments. This portfolio highlights hands-on projects that reflect real-world scenarios and practical use cases.
 
 ## Tools & Skills
 - Power BI Desktop
