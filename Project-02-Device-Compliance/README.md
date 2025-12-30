@@ -1,40 +1,94 @@
-# Project 02 — Device Compliance Dashboard (MD-102 Aligned)
+# Project 02 — Device Compliance & Patch Health Dashboard
 
-## Goal
-Build an endpoint compliance + patching dashboard that answers:
-- How many devices are compliant right now?
-- Which OS/device types have the most non-compliance?
-- What are the top non-compliance issues?
-- Are patches being installed within 7 days?
+## Overview
+This project simulates an endpoint compliance and patch management reporting solution aligned with **Microsoft MD-102 / Endpoint Administrator** responsibilities. The dashboard provides visibility into device compliance posture, non-compliance drivers, and patch installation health across multiple locations, operating systems, and device types.
 
-## Data
-Stored in `/data`:
-- `Users.csv` — user dimension (location/department)
-- `Devices.csv` — device dimension (OS, type, assigned user)
-- `ComplianceChecks.csv` — weekly compliance check events (trend)
-- `PatchEvents.csv` — monthly patch status per device (patch timeliness)
+The goal is to demonstrate real-world Power BI modeling, DAX, and dashboard design skills applied to IT operations and endpoint management use cases.
 
-## Model (Star-ish)
-- `Devices[AssignedUserID]` → `Users[UserID]` (many-to-one)
-- `ComplianceChecks[DeviceID]` → `Devices[DeviceID]` (many-to-one)
-- `PatchEvents[DeviceID]` → `Devices[DeviceID]` (many-to-one)
-- Create a `Date` table and relate:
-  - `Date[Date]` → `ComplianceChecks[CheckDate]`
+---
 
-## Suggested pages
+## Tools & Technologies
+- Power BI Desktop
+- Power Query
+- DAX
+- CSV-based relational dataset
+- GitHub (documentation & version control)
+
+---
+
+## Data Model
+**Tables Used:**
+- `Users` — user location and department
+- `Devices` — device type, OS, assigned user
+- `ComplianceChecks` — weekly compliance status checks
+- `PatchEvents` — monthly patch release and installation tracking
+- `Date` — centralized date table
+
+**Relationships:**
+- Users (1) → Devices (*)
+- Devices (1) → ComplianceChecks (*)
+- Devices (1) → PatchEvents (*)
+- Date (1) → ComplianceChecks (*)
+- Date (1) → PatchEvents (*) via Patch Release Date
+
+---
+
+## Dashboard Pages
+
 ### Page 1 — Compliance Overview
-- Cards: Total Devices, Compliant Devices, Compliance %, Non-Compliant Devices
-- Trend line: Compliance % over time (by CheckDate)
-- Bar: Non-compliant devices by OS
-- Bar: Non-compliant devices by Location
-- Treemap/Bar: TopIssue count
+Provides an executive-level view of endpoint compliance health.
+
+**Key Metrics:**
+- Total Devices
+- Compliant Devices
+- Non-Compliant Devices
+- Compliance Percentage
+
+**Visuals Include:**
+- Compliance % trend over time
+- Non-compliant devices by OS
+- Non-compliant devices by device type
+- Top non-compliance issues (encryption, antivirus, updates, policy)
+
+**Purpose:**
+Identify compliance trends and prioritize remediation efforts by platform and device category.
+
+---
 
 ### Page 2 — Patch Health
-- KPI: % Installed within 7 days
-- Bar: PatchStatus counts (Installed/Pending/Failed)
-- Table: Devices with Pending/Failed patches + DaysToInstall
+Focuses on patch deployment effectiveness and operational risk.
 
-## Deliverables to commit
-- `/pbix/Device-Compliance.pbix`
-- `/images/dashboard-page-1.png`, `/images/dashboard-page-2.png`
-- README updates with insights
+**Key Metrics:**
+- Total Patch Events
+- Installed Patches
+- Pending or Failed Patches
+- % Installed Within 7 Days (SLA metric)
+
+**Visuals Include:**
+- Patch status distribution
+- Patch installation timeliness
+- Action table highlighting devices with pending or failed patches
+- Days since patch release to prioritize overdue remediation
+
+**Purpose:**
+Monitor patch backlog, identify at-risk devices, and measure patching SLA performance.
+
+---
+
+## Key Skills Demonstrated
+- Star-schema style data modeling
+- Date table implementation and time-based filtering
+- DAX measures for KPIs and SLA metrics
+- Slicer-driven, interactive dashboards
+- Operational dashboard design for IT and endpoint management
+- GitHub documentation and portfolio presentation
+
+---
+
+## Screenshots
+Screenshots of both dashboard pages are included in the `/screenshots` folder.
+
+---
+
+## Notes
+This project uses synthetic data to simulate realistic enterprise endpoint environments and patch management scenarios.
