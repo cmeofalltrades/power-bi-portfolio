@@ -19,9 +19,10 @@ This portfolio showcases Power BI projects focused on real-world business and IT
 - **Skills:** DAX, KPIs, slicers, star schema  
 👉 [View Project](./Project-01-IT-Tickets)
 
-### 2. Device Compliance Dashboard *(Coming Soon)*
+### 2. Device Compliance Dashboard
 - Endpoint compliance by OS and device type
 - MD-102 aligned reporting
+👉 [View Project](./Project-02-Device-Compliance)
 
 ### 3. Sales Performance Dashboard *(Coming Soon)*
 
