@@ -20,8 +20,8 @@ I work across data, IT, and analytics, building solutions that help teams better
 
 ### 2. Device Compliance Dashboard
 - Endpoint compliance by OS and device type
-- MD-102 aligned reporting
-   👉 [View Project](./Project-02-Device-Compliance)
+- MD-102 aligned reporting  
+👉 [View Project](./Project-02-Device-Compliance)
 
 ### 3. Sales Performance Dashboard *(Coming Soon)*
 
