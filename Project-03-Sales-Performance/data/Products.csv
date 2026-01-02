@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,Brand,UnitCost,ListPrice
+P0001,Laptop,Hardware,Fabrikam,476.83,914.39
+P0002,Desktop,Hardware,AdventureWorks,24.04,164.73
+P0003,Docking Station,Hardware,Northwind,377.97,794.21
+P0004,Monitor,Hardware,Contoso,642.87,739.3
+P0005,Printer,Hardware,Fabrikam,471.34,542.04
+P0006,M365 License,Software,Contoso,372.35,1192.89
+P0007,Endpoint Protection,Software,AdventureWorks,78.81,90.63
+P0008,Backup Suite,Software,Contoso,207.88,1301.51
+P0009,CRM Subscription,Software,Contoso,433.59,1373.48
+P0010,Analytics Add-on,Software,AdventureWorks,389.42,814.43
+P0011,Onsite Support,Services,Fabrikam,705.09,810.85
+P0012,Implementation,Services,Contoso,293.86,337.94
+P0013,Training,Services,AdventureWorks,687.08,790.14
+P0014,Managed IT,Services,Fabrikam,642.17,738.5
+P0015,Data Migration,Services,AdventureWorks,721.38,829.59
