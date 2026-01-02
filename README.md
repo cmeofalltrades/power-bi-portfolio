@@ -26,8 +26,8 @@ I work across data, IT, and analytics, building solutions that help teams better
 ### 3. Sales Performance Dashboard
 - Analyzes revenue, profitability, and sales performance across time, regions, reps, products, and channels
 - Includes KPI tracking, sales trends, and actual vs target performance analysis
-- Skills: Power BI, DAX, KPI design, target modeling, star schema
-👉 [View Project](./Project-03-Sales-Performance)
+- Skills: Power BI, DAX, KPI design, target modeling, star schema  
+👉 [View Project](./Project-02-Sales-Performance)
 
 ### 4. Financial Overview Dashboard *(Coming Soon)*
 
