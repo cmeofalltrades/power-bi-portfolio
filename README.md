@@ -23,7 +23,11 @@ I work across data, IT, and analytics, building solutions that help teams better
 - MD-102 aligned reporting  
 👉 [View Project](./Project-02-Device-Compliance)
 
-### 3. Sales Performance Dashboard *(Coming Soon)*
+### 3. Sales Performance Dashboard
+- Analyzes revenue, profitability, and sales performance across time, regions, reps, products, and channels
+- Includes KPI tracking, sales trends, and actual vs target performance analysis
+- Skills: Power BI, DAX, KPI design, target modeling, star schema
+👉 [View Project](./Project-03-Sales-Performance)
 
 ### 4. Financial Overview Dashboard *(Coming Soon)*
 
