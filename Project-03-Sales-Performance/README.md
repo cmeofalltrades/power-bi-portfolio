@@ -37,7 +37,7 @@ The goal is to demonstrate real-world Power BI modeling, DAX, and dashboard desi
 
 ## Dashboard Pages
 
-### Page 1 — Page 1 — Executive Overview
+### Page 1 — Executive Overview
 
 Provides a high-level snapshot of overall sales performance.
 
