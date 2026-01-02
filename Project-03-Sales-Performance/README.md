@@ -4,6 +4,7 @@
 This project simulates a sales performance and revenue tracking solution designed to support business and operational decision-making. The dashboard provides visibility into revenue, profitability, sales trends, and target attainment across regions, sales representatives, product categories, and sales channels.
 
 The goal is to demonstrate real-world Power BI modeling, DAX, and dashboard design skills applied to commercial and revenue-focused analytics use cases.
+
 ---
 
 ## Tools & Technologies
