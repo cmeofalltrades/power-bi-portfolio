@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Segment,RegionID,AccountOwner
+C0001,Ozark Outfitters,Mid-Market,R01,Morgan
+C0002,Delta Dental Group,Mid-Market,R02,Taylor
+C0003,Riverbend Logistics,Enterprise,R03,Morgan
+C0004,Pine State Health,SMB,R04,Jordan
+C0005,Brickhouse Retail,Enterprise,R05,Taylor
+C0006,Summit Insurance,Enterprise,R05,Morgan
+C0007,Metro Auto Supply,SMB,R06,Alex
+C0008,BlueSky Schools,Mid-Market,R05,Chris
+C0009,Cedar Finance Co.,SMB,R03,Alex
+C0010,ArkTech Manufacturing,Enterprise,R06,Alex
+C0011,Heartland Foods,Enterprise,R02,Taylor
+C0012,Magnolia Realty,Mid-Market,R06,Morgan
+C0013,Falcon Aviation Parts,Enterprise,R02,Jordan
+C0014,North Star Energy,Enterprise,R01,Alex
+C0015,BrightPath Clinics,Enterprise,R02,Alex
+C0016,TriCounty Services,SMB,R05,Alex
+C0017,Redstone Construction,SMB,R05,Jordan
+C0018,Evergreen Hospitality,Enterprise,R03,Alex
+C0019,Capitol Legal Partners,Mid-Market,R02,Chris
+C0020,Sunrise Fitness,Mid-Market,R02,Morgan
