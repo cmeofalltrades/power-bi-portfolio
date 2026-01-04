@@ -101,7 +101,7 @@ Provides deeper insight into revenue and profitability drivers.
 ---
 
 ## Screenshots
-Screenshots of all dashboard pages are included in the `/images` folder.
+Screenshots of all dashboard pages are included in the [images](./images) folder.
 
 ---
 
