@@ -1,9 +1,11 @@
 # Project 04 — Financial Overview Dashboard
 
 ## Overview
-This project simulates a financial performance and budget management reporting solution designed to support executive and operational decision-making. The dashboard provides visibility into revenue, expenses, net profit, and budget variance across departments and time.
+This project simulates a financial performance and budget management reporting solution designed to support executive and operational decision-making. The dashboard provides visibility into revenue, expenses, net profit, and budget variance across departments and time. 
 
 The goal is to demonstrate real-world Power BI modeling, DAX, and dashboard design skills applied to financial and operational analytics use cases.
+
+
 ---
 ## Tools & Technologies
 - Power BI Desktop
