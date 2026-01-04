@@ -104,7 +104,7 @@ Evaluate budget adherence, identify departments over or under budget, and suppor
 ---
 
 ## Screenshots
-Screenshots of all dashboard pages are included in the /images folder.
+Screenshots of all dashboard pages are included in the [images](./screenshots) folder.
 
 ---
 
