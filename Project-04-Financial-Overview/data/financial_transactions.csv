@@ -1,0 +1,1401 @@
+TransactionID,Date,Type,Category,Amount,DepartmentID
+100001,2025-04-13,Expense,Marketing,-12076.6,D03
+100002,2025-12-15,Expense,Payroll,-3911.44,D05
+100003,2025-09-28,Revenue,Product Revenue,20416.84,D05
+100004,2025-04-17,Expense,Office & Facilities,-7010.07,D01
+100005,2025-03-13,Revenue,Subscriptions,17144.04,D04
+100006,2025-07-08,Expense,Payroll,-2100.39,D02
+100007,2025-01-21,Revenue,Product Revenue,16540.21,D01
+100008,2025-04-13,Expense,Marketing,-10414.25,D04
+100009,2025-05-02,Revenue,Subscriptions,11358.25,D03
+100010,2025-08-03,Revenue,Product Revenue,10338.34,D02
+100011,2025-11-27,Expense,Software Licenses,-7206.91,D03
+100012,2025-03-29,Expense,Office & Facilities,-17942.44,D03
+100013,2025-04-10,Revenue,Product Revenue,24707.79,D02
+100014,2025-12-26,Expense,Cloud Services,-7876.87,D02
+100015,2025-06-01,Expense,Cloud Services,-1785.01,D05
+100016,2025-05-11,Expense,Payroll,-17368.21,D05
+100017,2025-05-30,Expense,Office & Facilities,-887.59,D04
+100018,2025-11-05,Revenue,Product Revenue,12228.46,D05
+100019,2025-09-15,Revenue,Subscriptions,7521.28,D04
+100020,2025-12-10,Expense,Marketing,-1976.66,D04
+100021,2025-10-21,Revenue,Product Revenue,3128.9,D04
+100022,2025-07-11,Revenue,Subscriptions,22775.03,D03
+100023,2025-10-04,Expense,Software Licenses,-3082.54,D02
+100024,2025-06-10,Expense,Software Licenses,-14745.39,D01
+100025,2025-11-10,Expense,Software Licenses,-5211.66,D04
+100026,2025-01-22,Expense,Software Licenses,-16553.51,D01
+100027,2025-09-10,Expense,Cloud Services,-15790.68,D02
+100028,2025-08-24,Expense,Marketing,-5036.38,D01
+100029,2025-12-11,Revenue,Product Revenue,15055.66,D03
+100030,2025-02-18,Expense,Marketing,-7776.39,D02
+100031,2025-02-28,Expense,Software Licenses,-10330.47,D04
+100032,2025-06-19,Expense,Office & Facilities,-3794.16,D02
+100033,2025-07-07,Expense,Cloud Services,-17461.6,D04
+100034,2025-09-28,Expense,Software Licenses,-10959.46,D02
+100035,2025-07-09,Expense,Office & Facilities,-9860.79,D01
+100036,2025-06-24,Revenue,Service Revenue,1625.11,D01
+100037,2025-02-20,Revenue,Product Revenue,4179.42,D03
+100038,2025-12-30,Revenue,Subscriptions,11511.27,D04
+100039,2025-02-24,Expense,Software Licenses,-5583.53,D04
+100040,2025-09-01,Expense,Marketing,-15490.14,D01
+100041,2025-11-16,Revenue,Subscriptions,13914.96,D03
+100042,2025-05-11,Expense,Payroll,-6141.2,D01
+100043,2025-11-03,Expense,Payroll,-17456.72,D02
+100044,2025-05-15,Expense,Marketing,-9668.35,D05
+100045,2025-01-21,Expense,Marketing,-5416.66,D04
+100046,2025-11-25,Expense,Office & Facilities,-1215.12,D04
+100047,2025-06-16,Revenue,Product Revenue,6637.22,D03
+100048,2025-10-01,Expense,Cloud Services,-17472.78,D05
+100049,2025-03-30,Expense,Software Licenses,-5351.97,D03
+100050,2025-11-12,Expense,Marketing,-11197.14,D03
+100051,2025-01-14,Revenue,Product Revenue,9747.79,D01
+100052,2025-08-30,Expense,Software Licenses,-7120.3,D03
+100053,2025-09-22,Revenue,Subscriptions,10839.5,D05
+100054,2025-12-12,Expense,Marketing,-11136.41,D02
+100055,2025-02-22,Revenue,Service Revenue,5240.24,D01
+100056,2025-12-06,Expense,Office & Facilities,-5843.43,D01
+100057,2025-04-02,Revenue,Service Revenue,21291.26,D02
+100058,2025-09-21,Expense,Cloud Services,-8863.88,D03
+100059,2025-02-04,Expense,Software Licenses,-16223.09,D02
+100060,2025-07-25,Expense,Marketing,-12442.15,D01
+100061,2025-03-22,Expense,Office & Facilities,-5394.14,D01
+100062,2025-02-19,Expense,Payroll,-6086.83,D04
+100063,2025-12-26,Revenue,Product Revenue,21777.69,D04
+100064,2025-01-02,Expense,Office & Facilities,-6528.09,D04
+100065,2025-02-23,Expense,Marketing,-3023.04,D02
+100066,2025-04-16,Expense,Payroll,-2496.34,D01
+100067,2025-09-17,Expense,Payroll,-11696.86,D02
+100068,2025-11-06,Revenue,Service Revenue,6609.02,D02
+100069,2025-07-10,Expense,Software Licenses,-9071.79,D04
+100070,2025-08-06,Revenue,Subscriptions,13899.74,D04
+100071,2025-02-13,Expense,Cloud Services,-17869.92,D02
+100072,2025-06-11,Revenue,Service Revenue,5830.49,D03
+100073,2025-07-21,Revenue,Subscriptions,8609.12,D01
+100074,2025-09-27,Revenue,Subscriptions,4132.7,D03
+100075,2025-12-17,Revenue,Subscriptions,20614.82,D03
+100076,2025-10-31,Expense,Marketing,-14352.83,D03
+100077,2025-09-28,Revenue,Subscriptions,20778.22,D04
+100078,2025-08-03,Expense,Cloud Services,-15368.68,D04
+100079,2025-09-09,Expense,Cloud Services,-14039.77,D04
+100080,2025-07-09,Expense,Payroll,-13277.91,D03
+100081,2025-10-23,Expense,Marketing,-12133.25,D02
+100082,2025-08-01,Revenue,Product Revenue,15378.87,D04
+100083,2025-07-27,Revenue,Service Revenue,6762.35,D03
+100084,2025-08-25,Expense,Marketing,-900.8,D01
+100085,2025-12-04,Expense,Office & Facilities,-16473.2,D01
+100086,2025-02-22,Expense,Software Licenses,-6563.52,D04
+100087,2025-10-07,Revenue,Product Revenue,17183.09,D02
+100088,2025-08-05,Revenue,Product Revenue,18068.12,D04
+100089,2025-09-09,Revenue,Subscriptions,14380.49,D04
+100090,2025-07-07,Expense,Office & Facilities,-934.88,D04
+100091,2025-02-10,Expense,Marketing,-2898.84,D04
+100092,2025-06-06,Revenue,Product Revenue,5329.88,D02
+100093,2025-01-15,Expense,Office & Facilities,-12603.88,D03
+100094,2025-10-28,Revenue,Service Revenue,9947.32,D04
+100095,2025-03-06,Expense,Office & Facilities,-9294.36,D02
+100096,2025-12-11,Revenue,Product Revenue,2660.12,D02
+100097,2025-11-23,Expense,Marketing,-12885.49,D04
+100098,2025-01-09,Expense,Cloud Services,-7109.14,D04
+100099,2025-12-10,Revenue,Subscriptions,18438.76,D03
+100100,2025-05-09,Revenue,Service Revenue,18660.02,D03
+100101,2025-05-16,Expense,Payroll,-14737.25,D01
+100102,2025-03-04,Revenue,Subscriptions,24037.92,D03
+100103,2025-05-19,Revenue,Service Revenue,12820.14,D02
+100104,2025-03-22,Expense,Cloud Services,-11250.83,D03
+100105,2025-06-12,Revenue,Subscriptions,11614.95,D03
+100106,2025-10-16,Revenue,Subscriptions,22503.8,D01
+100107,2025-09-18,Revenue,Service Revenue,17389.42,D02
+100108,2025-08-19,Expense,Payroll,-9252.44,D02
+100109,2025-02-10,Expense,Office & Facilities,-10911.35,D02
+100110,2025-01-28,Revenue,Product Revenue,19507.51,D05
+100111,2025-05-15,Expense,Payroll,-1490.98,D05
+100112,2025-07-20,Expense,Payroll,-2170.89,D04
+100113,2025-11-24,Expense,Office & Facilities,-11532.92,D05
+100114,2025-09-25,Expense,Cloud Services,-17781.3,D05
+100115,2025-02-02,Expense,Software Licenses,-10078.72,D03
+100116,2025-02-17,Revenue,Product Revenue,2227.53,D04
+100117,2025-03-03,Revenue,Product Revenue,14105.25,D04
+100118,2025-08-04,Expense,Payroll,-10538.63,D05
+100119,2025-10-20,Expense,Software Licenses,-2867.16,D05
+100120,2025-04-09,Expense,Office & Facilities,-11545.53,D04
+100121,2025-06-21,Expense,Marketing,-5107.82,D05
+100122,2025-12-26,Revenue,Service Revenue,10371.95,D04
+100123,2025-08-02,Expense,Cloud Services,-17499.97,D04
+100124,2025-02-04,Revenue,Service Revenue,2743.52,D03
+100125,2025-08-15,Revenue,Product Revenue,7621.73,D03
+100126,2025-04-11,Expense,Cloud Services,-3807.75,D04
+100127,2025-05-11,Expense,Software Licenses,-5346.59,D05
+100128,2025-09-14,Expense,Marketing,-6202.33,D02
+100129,2025-01-05,Expense,Marketing,-12246.41,D03
+100130,2025-08-06,Expense,Payroll,-13540.1,D02
+100131,2025-09-12,Expense,Marketing,-9692.94,D04
+100132,2025-12-25,Expense,Marketing,-15266.78,D03
+100133,2025-10-10,Expense,Software Licenses,-17375.85,D01
+100134,2025-07-26,Expense,Marketing,-16875.7,D03
+100135,2025-01-15,Expense,Software Licenses,-4724.05,D03
+100136,2025-12-12,Revenue,Product Revenue,19947.57,D01
+100137,2025-02-11,Revenue,Subscriptions,14654.86,D04
+100138,2025-06-28,Revenue,Service Revenue,6562.54,D03
+100139,2025-03-04,Expense,Marketing,-16836.1,D03
+100140,2025-12-18,Expense,Marketing,-15575.49,D03
+100141,2025-08-19,Expense,Payroll,-16074.7,D01
+100142,2025-08-29,Expense,Payroll,-4955.09,D03
+100143,2025-02-21,Revenue,Subscriptions,19573.9,D04
+100144,2025-04-06,Expense,Cloud Services,-6703.38,D05
+100145,2025-08-10,Expense,Software Licenses,-13061.23,D01
+100146,2025-08-19,Revenue,Service Revenue,5151.62,D01
+100147,2025-08-25,Expense,Payroll,-14831.33,D02
+100148,2025-05-23,Revenue,Product Revenue,18805.58,D05
+100149,2025-06-20,Revenue,Subscriptions,11374.25,D01
+100150,2025-01-29,Expense,Payroll,-16634.21,D05
+100151,2025-02-05,Expense,Office & Facilities,-12593.18,D01
+100152,2025-01-13,Expense,Marketing,-12234.42,D01
+100153,2025-06-09,Expense,Software Licenses,-5277.65,D05
+100154,2025-11-23,Expense,Payroll,-1159.4,D01
+100155,2025-07-06,Expense,Office & Facilities,-15125.33,D02
+100156,2025-08-31,Expense,Cloud Services,-10977.13,D02
+100157,2025-03-27,Revenue,Service Revenue,7394.83,D02
+100158,2025-10-11,Revenue,Service Revenue,6596.18,D01
+100159,2025-03-07,Revenue,Product Revenue,11230.37,D02
+100160,2025-06-19,Expense,Payroll,-3561.27,D04
+100161,2025-02-14,Revenue,Service Revenue,3879.41,D01
+100162,2025-03-03,Revenue,Subscriptions,7955.12,D03
+100163,2025-05-14,Expense,Payroll,-2911.48,D05
+100164,2025-10-11,Expense,Marketing,-17403.67,D03
+100165,2025-01-28,Expense,Cloud Services,-9599.96,D02
+100166,2025-04-18,Revenue,Service Revenue,13515.22,D03
+100167,2025-02-13,Expense,Cloud Services,-10373.86,D05
+100168,2025-12-06,Revenue,Service Revenue,3680.55,D01
+100169,2025-10-13,Revenue,Product Revenue,13249.13,D05
+100170,2025-11-27,Expense,Payroll,-15591.59,D03
+100171,2025-05-08,Expense,Office & Facilities,-10303.55,D05
+100172,2025-12-14,Revenue,Subscriptions,3771.01,D05
+100173,2025-08-19,Expense,Payroll,-11171.34,D05
+100174,2025-07-09,Revenue,Service Revenue,1906.1,D02
+100175,2025-08-13,Revenue,Service Revenue,22197.75,D04
+100176,2025-10-10,Revenue,Service Revenue,1237.25,D04
+100177,2025-05-01,Revenue,Service Revenue,17033.95,D01
+100178,2025-04-26,Expense,Cloud Services,-11047.08,D02
+100179,2025-08-21,Expense,Cloud Services,-7702.49,D04
+100180,2025-09-16,Expense,Payroll,-5255.12,D05
+100181,2025-12-25,Expense,Office & Facilities,-16548.45,D02
+100182,2025-07-17,Expense,Payroll,-3455.6,D04
+100183,2025-05-17,Expense,Marketing,-7847.09,D04
+100184,2025-11-14,Expense,Office & Facilities,-7661.52,D05
+100185,2025-06-14,Expense,Cloud Services,-1717.72,D02
+100186,2025-08-13,Expense,Office & Facilities,-16258.33,D04
+100187,2025-11-03,Revenue,Subscriptions,12757.03,D03
+100188,2025-08-22,Expense,Cloud Services,-11198.53,D01
+100189,2025-06-21,Expense,Office & Facilities,-11553.38,D03
+100190,2025-06-01,Expense,Cloud Services,-15392.75,D02
+100191,2025-11-11,Revenue,Service Revenue,19333.26,D03
+100192,2025-06-09,Revenue,Product Revenue,13277.22,D04
+100193,2025-04-06,Revenue,Product Revenue,24993.19,D04
+100194,2025-08-21,Expense,Software Licenses,-12395.84,D05
+100195,2025-06-29,Expense,Payroll,-8659.98,D02
+100196,2025-04-23,Revenue,Product Revenue,18951.47,D04
+100197,2025-11-14,Revenue,Subscriptions,23788.87,D03
+100198,2025-02-21,Revenue,Subscriptions,6036.71,D03
+100199,2025-09-25,Revenue,Service Revenue,24541.6,D05
+100200,2025-10-22,Expense,Marketing,-6988.59,D02
+100201,2025-04-23,Revenue,Service Revenue,19349.79,D01
+100202,2025-04-11,Revenue,Product Revenue,9737.43,D03
+100203,2025-04-23,Expense,Payroll,-16455.23,D05
+100204,2025-03-22,Revenue,Service Revenue,19131.58,D02
+100205,2025-07-06,Expense,Marketing,-10990.26,D05
+100206,2025-04-23,Revenue,Product Revenue,2921.13,D03
+100207,2025-01-02,Expense,Marketing,-15502.62,D01
+100208,2025-05-10,Revenue,Product Revenue,12539.2,D04
+100209,2025-08-08,Revenue,Service Revenue,4125.51,D02
+100210,2025-02-23,Expense,Marketing,-10033.43,D01
+100211,2025-12-09,Revenue,Service Revenue,7965.72,D05
+100212,2025-08-12,Expense,Office & Facilities,-4532.11,D04
+100213,2025-08-13,Expense,Cloud Services,-5256.45,D03
+100214,2025-05-06,Revenue,Service Revenue,14809.06,D05
+100215,2025-05-10,Expense,Payroll,-6183.27,D02
+100216,2025-02-22,Expense,Office & Facilities,-5735.61,D05
+100217,2025-06-21,Expense,Office & Facilities,-9823.01,D04
+100218,2025-08-06,Expense,Marketing,-10127.57,D02
+100219,2025-06-09,Expense,Marketing,-10848.28,D04
+100220,2025-07-17,Expense,Cloud Services,-17381.85,D02
+100221,2025-09-04,Expense,Marketing,-8038.19,D05
+100222,2025-11-20,Revenue,Service Revenue,17575.46,D05
+100223,2025-07-22,Revenue,Subscriptions,10822.1,D05
+100224,2025-07-03,Revenue,Service Revenue,10664.01,D05
+100225,2025-05-03,Expense,Cloud Services,-4753.28,D05
+100226,2025-09-12,Expense,Office & Facilities,-9091.08,D02
+100227,2025-10-21,Revenue,Service Revenue,21360.05,D05
+100228,2025-10-07,Expense,Office & Facilities,-14074.35,D02
+100229,2025-11-21,Revenue,Product Revenue,23636.84,D01
+100230,2025-04-08,Expense,Office & Facilities,-7340.57,D05
+100231,2025-07-17,Expense,Cloud Services,-7061.58,D05
+100232,2025-08-28,Revenue,Service Revenue,14023.75,D01
+100233,2025-05-24,Revenue,Subscriptions,2260.62,D02
+100234,2025-04-07,Expense,Marketing,-16688.69,D03
+100235,2025-07-20,Revenue,Product Revenue,5144.84,D04
+100236,2025-05-04,Revenue,Service Revenue,10526.23,D05
+100237,2025-07-06,Expense,Office & Facilities,-10483.67,D02
+100238,2025-11-22,Revenue,Product Revenue,9649.98,D02
+100239,2025-12-15,Expense,Marketing,-12668.0,D01
+100240,2025-09-16,Expense,Cloud Services,-17844.54,D04
+100241,2025-05-28,Expense,Marketing,-5463.58,D03
+100242,2025-09-09,Revenue,Service Revenue,22652.92,D03
+100243,2025-12-12,Expense,Payroll,-7070.37,D02
+100244,2025-05-27,Revenue,Service Revenue,19943.67,D05
+100245,2025-05-28,Revenue,Product Revenue,22081.06,D03
+100246,2025-12-18,Expense,Software Licenses,-15451.34,D04
+100247,2025-07-18,Revenue,Subscriptions,13497.42,D02
+100248,2025-11-04,Expense,Marketing,-4874.54,D05
+100249,2025-05-08,Expense,Cloud Services,-3293.48,D05
+100250,2025-02-08,Expense,Cloud Services,-16365.09,D02
+100251,2025-12-04,Expense,Marketing,-2934.81,D01
+100252,2025-12-26,Expense,Software Licenses,-7844.59,D04
+100253,2025-05-09,Expense,Marketing,-17974.65,D04
+100254,2025-09-24,Expense,Cloud Services,-4944.01,D02
+100255,2025-05-31,Expense,Office & Facilities,-4124.87,D04
+100256,2025-10-25,Revenue,Subscriptions,18081.84,D01
+100257,2025-04-09,Expense,Payroll,-7653.27,D04
+100258,2025-09-20,Expense,Cloud Services,-15040.07,D02
+100259,2025-09-09,Expense,Payroll,-12072.81,D04
+100260,2025-05-24,Expense,Office & Facilities,-15955.36,D02
+100261,2025-12-12,Expense,Office & Facilities,-17566.67,D03
+100262,2025-04-22,Expense,Marketing,-3945.4,D02
+100263,2025-03-01,Revenue,Service Revenue,5466.28,D01
+100264,2025-01-02,Revenue,Service Revenue,16075.69,D04
+100265,2025-10-31,Expense,Payroll,-7198.51,D04
+100266,2025-09-11,Revenue,Subscriptions,15986.76,D04
+100267,2025-05-20,Revenue,Subscriptions,11499.85,D04
+100268,2025-02-06,Expense,Office & Facilities,-6450.56,D03
+100269,2025-06-09,Expense,Cloud Services,-10569.27,D03
+100270,2025-01-09,Revenue,Subscriptions,18761.66,D03
+100271,2025-08-21,Expense,Office & Facilities,-9691.72,D01
+100272,2025-04-09,Revenue,Product Revenue,2998.89,D02
+100273,2025-05-27,Expense,Cloud Services,-6963.93,D01
+100274,2025-10-31,Expense,Payroll,-17965.28,D05
+100275,2025-07-27,Expense,Software Licenses,-17885.07,D01
+100276,2025-05-11,Expense,Office & Facilities,-7973.67,D02
+100277,2025-06-01,Expense,Software Licenses,-5282.18,D04
+100278,2025-02-23,Expense,Office & Facilities,-2269.76,D05
+100279,2025-04-30,Revenue,Service Revenue,16376.98,D05
+100280,2025-06-10,Expense,Office & Facilities,-2321.83,D01
+100281,2025-04-26,Expense,Payroll,-10693.93,D05
+100282,2025-03-16,Expense,Marketing,-3844.68,D03
+100283,2025-04-23,Expense,Software Licenses,-11616.86,D01
+100284,2025-04-14,Revenue,Service Revenue,21663.81,D03
+100285,2025-12-06,Expense,Office & Facilities,-9409.77,D01
+100286,2025-09-11,Revenue,Product Revenue,8364.9,D04
+100287,2025-08-15,Expense,Payroll,-10969.03,D01
+100288,2025-04-22,Revenue,Subscriptions,18349.46,D03
+100289,2025-04-09,Revenue,Service Revenue,14370.45,D01
+100290,2025-06-02,Expense,Software Licenses,-11575.45,D01
+100291,2025-12-15,Expense,Marketing,-14665.56,D02
+100292,2025-12-04,Expense,Office & Facilities,-7498.6,D04
+100293,2025-07-13,Revenue,Product Revenue,21738.74,D04
+100294,2025-11-06,Revenue,Product Revenue,5144.81,D03
+100295,2025-06-12,Revenue,Product Revenue,6243.09,D05
+100296,2025-07-27,Revenue,Product Revenue,11070.71,D02
+100297,2025-06-18,Expense,Office & Facilities,-12366.1,D03
+100298,2025-06-10,Expense,Marketing,-10447.56,D02
+100299,2025-03-09,Revenue,Subscriptions,23844.32,D04
+100300,2025-10-16,Revenue,Service Revenue,16156.55,D02
+100301,2025-10-04,Revenue,Subscriptions,21271.16,D03
+100302,2025-10-31,Expense,Office & Facilities,-2819.97,D04
+100303,2025-05-15,Expense,Office & Facilities,-11302.24,D01
+100304,2025-07-14,Revenue,Service Revenue,24743.38,D04
+100305,2025-05-08,Expense,Office & Facilities,-7535.37,D01
+100306,2025-02-02,Revenue,Product Revenue,6380.48,D01
+100307,2025-06-25,Expense,Cloud Services,-8573.84,D03
+100308,2025-01-22,Expense,Office & Facilities,-15078.05,D02
+100309,2025-08-26,Revenue,Subscriptions,21491.52,D04
+100310,2025-06-07,Revenue,Subscriptions,6013.65,D01
+100311,2025-02-07,Expense,Office & Facilities,-8403.65,D05
+100312,2025-08-18,Expense,Cloud Services,-8551.31,D03
+100313,2025-12-31,Expense,Payroll,-13210.53,D03
+100314,2025-02-20,Expense,Cloud Services,-14771.17,D02
+100315,2025-09-21,Revenue,Subscriptions,2001.5,D04
+100316,2025-10-10,Revenue,Product Revenue,13437.98,D03
+100317,2025-01-27,Expense,Payroll,-3781.58,D01
+100318,2025-08-14,Expense,Software Licenses,-8176.01,D02
+100319,2025-10-04,Revenue,Service Revenue,1526.03,D04
+100320,2025-10-13,Expense,Office & Facilities,-7256.64,D04
+100321,2025-04-07,Expense,Software Licenses,-15618.91,D01
+100322,2025-10-11,Expense,Cloud Services,-9928.29,D02
+100323,2025-11-13,Revenue,Subscriptions,2469.68,D03
+100324,2025-10-31,Revenue,Product Revenue,17643.04,D02
+100325,2025-05-27,Expense,Payroll,-5871.61,D05
+100326,2025-01-04,Expense,Marketing,-15051.33,D05
+100327,2025-02-04,Revenue,Subscriptions,22182.45,D01
+100328,2025-07-11,Expense,Software Licenses,-5914.59,D01
+100329,2025-02-18,Expense,Marketing,-2759.19,D02
+100330,2025-01-17,Expense,Software Licenses,-7627.72,D04
+100331,2025-06-21,Revenue,Service Revenue,22427.06,D03
+100332,2025-08-08,Expense,Marketing,-9931.36,D03
+100333,2025-06-07,Expense,Office & Facilities,-14434.9,D05
+100334,2025-02-15,Revenue,Product Revenue,2689.04,D02
+100335,2025-01-06,Revenue,Product Revenue,14609.12,D05
+100336,2025-04-09,Revenue,Product Revenue,3158.08,D05
+100337,2025-08-21,Expense,Payroll,-12030.53,D03
+100338,2025-02-06,Expense,Software Licenses,-11610.76,D03
+100339,2025-10-07,Expense,Software Licenses,-6680.98,D03
+100340,2025-12-15,Expense,Cloud Services,-14981.54,D02
+100341,2025-10-29,Expense,Marketing,-11598.62,D01
+100342,2025-06-30,Expense,Office & Facilities,-3797.77,D05
+100343,2025-04-05,Expense,Office & Facilities,-16503.3,D01
+100344,2025-04-09,Expense,Payroll,-2965.97,D04
+100345,2025-07-07,Revenue,Service Revenue,10161.42,D03
+100346,2025-04-26,Revenue,Service Revenue,23113.6,D05
+100347,2025-07-10,Expense,Payroll,-4712.72,D02
+100348,2025-09-10,Expense,Payroll,-5820.3,D03
+100349,2025-06-10,Expense,Software Licenses,-6475.44,D05
+100350,2025-09-13,Expense,Software Licenses,-861.95,D03
+100351,2025-11-19,Expense,Software Licenses,-2262.59,D03
+100352,2025-05-08,Expense,Cloud Services,-8222.4,D04
+100353,2025-01-18,Expense,Cloud Services,-3778.03,D04
+100354,2025-10-08,Expense,Marketing,-6512.67,D04
+100355,2025-08-11,Expense,Cloud Services,-7686.41,D03
+100356,2025-02-23,Expense,Office & Facilities,-8660.03,D04
+100357,2025-02-27,Revenue,Product Revenue,9372.6,D05
+100358,2025-11-19,Expense,Office & Facilities,-5785.72,D04
+100359,2025-12-26,Expense,Payroll,-6615.09,D01
+100360,2025-06-23,Expense,Software Licenses,-10046.87,D05
+100361,2025-10-07,Expense,Software Licenses,-12601.3,D01
+100362,2025-04-24,Revenue,Subscriptions,20976.59,D03
+100363,2025-10-15,Revenue,Subscriptions,18666.42,D01
+100364,2025-12-08,Revenue,Subscriptions,16876.14,D02
+100365,2025-05-31,Revenue,Product Revenue,8977.71,D01
+100366,2025-05-07,Expense,Software Licenses,-15958.2,D02
+100367,2025-06-04,Expense,Payroll,-3148.39,D04
+100368,2025-09-30,Revenue,Product Revenue,24608.9,D04
+100369,2025-04-14,Expense,Marketing,-14245.93,D02
+100370,2025-10-26,Expense,Payroll,-16685.23,D05
+100371,2025-09-03,Expense,Payroll,-11836.64,D03
+100372,2025-06-25,Expense,Payroll,-12783.48,D02
+100373,2025-02-08,Expense,Marketing,-9819.75,D03
+100374,2025-06-19,Revenue,Product Revenue,21307.72,D03
+100375,2025-09-04,Revenue,Service Revenue,23576.36,D01
+100376,2025-01-26,Expense,Software Licenses,-6375.85,D04
+100377,2025-12-21,Revenue,Product Revenue,11176.55,D01
+100378,2025-11-02,Expense,Marketing,-2757.67,D04
+100379,2025-01-13,Expense,Software Licenses,-8861.74,D01
+100380,2025-11-12,Revenue,Product Revenue,14059.06,D04
+100381,2025-11-09,Expense,Marketing,-8583.49,D01
+100382,2025-02-05,Expense,Office & Facilities,-1172.3,D04
+100383,2025-06-22,Revenue,Service Revenue,10297.6,D05
+100384,2025-01-20,Expense,Payroll,-6165.62,D01
+100385,2025-11-17,Expense,Payroll,-9453.4,D02
+100386,2025-09-21,Revenue,Subscriptions,3202.24,D05
+100387,2025-05-22,Expense,Cloud Services,-17592.23,D04
+100388,2025-05-23,Expense,Office & Facilities,-2057.04,D03
+100389,2025-04-02,Expense,Payroll,-4457.2,D05
+100390,2025-12-20,Revenue,Subscriptions,18084.64,D04
+100391,2025-11-18,Revenue,Subscriptions,8757.8,D02
+100392,2025-10-15,Revenue,Subscriptions,6224.8,D03
+100393,2025-08-03,Expense,Marketing,-6066.54,D01
+100394,2025-12-08,Expense,Software Licenses,-12039.19,D03
+100395,2025-02-20,Revenue,Subscriptions,7067.17,D04
+100396,2025-06-02,Revenue,Product Revenue,16624.9,D02
+100397,2025-07-05,Expense,Cloud Services,-8795.38,D01
+100398,2025-03-04,Revenue,Subscriptions,24724.42,D03
+100399,2025-07-09,Expense,Office & Facilities,-7346.49,D04
+100400,2025-05-05,Revenue,Subscriptions,20793.9,D01
+100401,2025-05-30,Revenue,Product Revenue,5841.21,D04
+100402,2025-11-10,Revenue,Product Revenue,8050.38,D01
+100403,2025-02-27,Revenue,Product Revenue,19426.73,D04
+100404,2025-12-08,Revenue,Subscriptions,8906.91,D01
+100405,2025-11-01,Expense,Payroll,-5936.21,D03
+100406,2025-06-29,Expense,Payroll,-7289.0,D03
+100407,2025-06-19,Expense,Cloud Services,-7105.32,D03
+100408,2025-11-22,Expense,Payroll,-11760.64,D05
+100409,2025-09-28,Revenue,Product Revenue,21467.94,D01
+100410,2025-02-23,Revenue,Subscriptions,8240.61,D04
+100411,2025-04-11,Expense,Office & Facilities,-17269.52,D04
+100412,2025-09-21,Expense,Office & Facilities,-2203.56,D03
+100413,2025-02-22,Revenue,Product Revenue,1200.73,D04
+100414,2025-03-01,Expense,Software Licenses,-9151.27,D02
+100415,2025-04-18,Revenue,Subscriptions,8695.06,D02
+100416,2025-01-05,Expense,Payroll,-4025.45,D05
+100417,2025-04-13,Revenue,Subscriptions,16251.03,D02
+100418,2025-07-15,Expense,Software Licenses,-891.43,D05
+100419,2025-09-19,Expense,Software Licenses,-4300.05,D02
+100420,2025-12-31,Revenue,Product Revenue,16715.24,D05
+100421,2025-12-16,Revenue,Service Revenue,23394.56,D05
+100422,2025-02-16,Expense,Software Licenses,-8629.92,D05
+100423,2025-12-21,Expense,Office & Facilities,-11831.71,D01
+100424,2025-11-07,Revenue,Service Revenue,9086.18,D04
+100425,2025-11-04,Expense,Cloud Services,-13684.88,D05
+100426,2025-05-24,Expense,Software Licenses,-16680.37,D04
+100427,2025-09-26,Expense,Cloud Services,-10224.11,D02
+100428,2025-05-04,Expense,Cloud Services,-4003.96,D01
+100429,2025-04-16,Expense,Payroll,-8965.56,D04
+100430,2025-06-07,Expense,Office & Facilities,-5368.91,D01
+100431,2025-05-27,Expense,Cloud Services,-15996.58,D05
+100432,2025-05-25,Expense,Cloud Services,-11183.42,D05
+100433,2025-04-30,Revenue,Product Revenue,8795.14,D04
+100434,2025-11-15,Expense,Software Licenses,-4524.32,D01
+100435,2025-10-02,Expense,Software Licenses,-7622.65,D04
+100436,2025-04-02,Revenue,Product Revenue,12654.42,D03
+100437,2025-02-27,Expense,Office & Facilities,-13178.24,D02
+100438,2025-12-12,Expense,Office & Facilities,-10099.5,D05
+100439,2025-08-17,Expense,Marketing,-13451.08,D01
+100440,2025-04-27,Revenue,Product Revenue,1546.7,D05
+100441,2025-11-14,Revenue,Service Revenue,20706.71,D03
+100442,2025-10-06,Expense,Payroll,-7244.32,D04
+100443,2025-05-07,Expense,Payroll,-9198.63,D01
+100444,2025-05-09,Expense,Software Licenses,-8264.48,D04
+100445,2025-02-27,Revenue,Service Revenue,13692.62,D04
+100446,2025-05-02,Expense,Office & Facilities,-1074.66,D04
+100447,2025-01-01,Expense,Office & Facilities,-1677.53,D04
+100448,2025-08-27,Expense,Office & Facilities,-6960.7,D05
+100449,2025-10-17,Expense,Marketing,-7691.01,D05
+100450,2025-04-06,Revenue,Service Revenue,6145.25,D03
+100451,2025-05-06,Revenue,Product Revenue,16609.5,D04
+100452,2025-04-28,Revenue,Product Revenue,10950.21,D02
+100453,2025-02-17,Revenue,Product Revenue,21016.16,D02
+100454,2025-03-30,Expense,Marketing,-8564.28,D01
+100455,2025-08-25,Revenue,Product Revenue,14808.59,D04
+100456,2025-09-29,Revenue,Subscriptions,17877.27,D02
+100457,2025-07-08,Expense,Payroll,-8480.29,D02
+100458,2025-07-11,Revenue,Product Revenue,9067.35,D01
+100459,2025-03-10,Expense,Payroll,-10791.49,D04
+100460,2025-10-05,Expense,Office & Facilities,-13827.65,D04
+100461,2025-12-15,Expense,Office & Facilities,-17467.99,D04
+100462,2025-09-04,Revenue,Service Revenue,12969.6,D02
+100463,2025-03-17,Expense,Office & Facilities,-5102.41,D02
+100464,2025-06-03,Expense,Payroll,-12729.65,D01
+100465,2025-05-24,Revenue,Product Revenue,18409.1,D02
+100466,2025-03-27,Expense,Cloud Services,-4263.12,D02
+100467,2025-07-04,Revenue,Service Revenue,22284.75,D01
+100468,2025-10-12,Revenue,Subscriptions,8809.89,D05
+100469,2025-08-08,Revenue,Service Revenue,13101.39,D03
+100470,2025-03-10,Revenue,Subscriptions,24442.15,D04
+100471,2025-02-16,Expense,Software Licenses,-11230.85,D05
+100472,2025-04-04,Revenue,Subscriptions,9933.68,D01
+100473,2025-08-26,Expense,Office & Facilities,-14583.54,D01
+100474,2025-07-23,Revenue,Service Revenue,10164.9,D05
+100475,2025-08-06,Expense,Software Licenses,-12797.58,D05
+100476,2025-12-07,Expense,Software Licenses,-12355.65,D04
+100477,2025-02-08,Expense,Payroll,-3183.61,D05
+100478,2025-04-10,Revenue,Product Revenue,8088.69,D01
+100479,2025-10-16,Revenue,Service Revenue,5218.83,D02
+100480,2025-09-11,Expense,Payroll,-3613.19,D02
+100481,2025-08-10,Expense,Software Licenses,-3731.52,D04
+100482,2025-12-23,Expense,Cloud Services,-2876.39,D02
+100483,2025-01-23,Revenue,Product Revenue,6747.13,D01
+100484,2025-09-07,Expense,Payroll,-8638.77,D01
+100485,2025-01-10,Expense,Cloud Services,-2865.47,D03
+100486,2025-09-03,Expense,Marketing,-8882.93,D03
+100487,2025-11-21,Expense,Marketing,-10121.91,D04
+100488,2025-04-10,Expense,Cloud Services,-13534.82,D02
+100489,2025-10-17,Revenue,Service Revenue,14381.0,D03
+100490,2025-06-29,Expense,Payroll,-5568.1,D05
+100491,2025-08-11,Revenue,Subscriptions,18121.82,D01
+100492,2025-09-07,Expense,Office & Facilities,-13278.49,D01
+100493,2025-05-27,Expense,Software Licenses,-4701.24,D04
+100494,2025-04-06,Revenue,Product Revenue,14585.82,D01
+100495,2025-09-14,Revenue,Subscriptions,18011.65,D05
+100496,2025-11-21,Expense,Office & Facilities,-939.51,D01
+100497,2025-01-04,Expense,Payroll,-10455.26,D01
+100498,2025-01-16,Expense,Office & Facilities,-16964.1,D04
+100499,2025-10-07,Expense,Cloud Services,-12387.95,D02
+100500,2025-12-02,Expense,Software Licenses,-13752.27,D02
+100501,2025-09-04,Revenue,Product Revenue,22839.01,D05
+100502,2025-09-15,Expense,Marketing,-10338.21,D01
+100503,2025-06-09,Expense,Payroll,-5281.13,D01
+100504,2025-12-06,Revenue,Subscriptions,2147.51,D04
+100505,2025-06-01,Expense,Software Licenses,-16007.84,D05
+100506,2025-06-27,Expense,Payroll,-7188.66,D04
+100507,2025-06-12,Expense,Office & Facilities,-2105.94,D01
+100508,2025-02-02,Revenue,Subscriptions,17593.69,D01
+100509,2025-06-28,Revenue,Subscriptions,9827.55,D04
+100510,2025-04-11,Expense,Software Licenses,-12101.61,D05
+100511,2025-09-25,Expense,Marketing,-11346.92,D02
+100512,2025-11-19,Revenue,Service Revenue,4133.29,D03
+100513,2025-03-06,Expense,Office & Facilities,-10367.13,D05
+100514,2025-06-17,Expense,Software Licenses,-14538.26,D03
+100515,2025-11-26,Expense,Office & Facilities,-13578.52,D02
+100516,2025-02-12,Expense,Software Licenses,-7263.06,D01
+100517,2025-02-13,Expense,Software Licenses,-4036.92,D03
+100518,2025-10-12,Expense,Payroll,-7280.78,D03
+100519,2025-01-12,Revenue,Subscriptions,9696.18,D05
+100520,2025-04-05,Expense,Software Licenses,-11455.71,D04
+100521,2025-10-29,Revenue,Product Revenue,24098.03,D03
+100522,2025-09-10,Revenue,Subscriptions,24459.35,D01
+100523,2025-08-30,Expense,Software Licenses,-1222.94,D01
+100524,2025-02-04,Expense,Cloud Services,-12361.1,D01
+100525,2025-08-03,Revenue,Product Revenue,3297.6,D04
+100526,2025-12-03,Revenue,Product Revenue,19978.74,D04
+100527,2025-03-31,Expense,Software Licenses,-8372.39,D02
+100528,2025-09-21,Expense,Payroll,-16405.31,D01
+100529,2025-04-03,Expense,Cloud Services,-14997.05,D04
+100530,2025-03-31,Revenue,Subscriptions,15282.86,D05
+100531,2025-04-25,Revenue,Service Revenue,7855.34,D05
+100532,2025-04-15,Revenue,Subscriptions,11617.66,D05
+100533,2025-07-15,Revenue,Subscriptions,8051.54,D02
+100534,2025-11-10,Revenue,Product Revenue,2381.94,D01
+100535,2025-04-24,Expense,Cloud Services,-9683.83,D03
+100536,2025-03-16,Expense,Marketing,-11498.5,D03
+100537,2025-08-05,Expense,Payroll,-15970.87,D03
+100538,2025-10-04,Revenue,Subscriptions,11888.07,D04
+100539,2025-09-06,Revenue,Product Revenue,10820.95,D03
+100540,2025-06-13,Expense,Payroll,-3411.28,D03
+100541,2025-12-23,Expense,Payroll,-16051.25,D03
+100542,2025-07-11,Revenue,Subscriptions,13464.26,D04
+100543,2025-08-15,Expense,Software Licenses,-6250.43,D03
+100544,2025-06-26,Expense,Office & Facilities,-5629.17,D04
+100545,2025-04-09,Expense,Marketing,-7241.78,D02
+100546,2025-02-05,Expense,Office & Facilities,-12389.87,D05
+100547,2025-04-06,Expense,Software Licenses,-12119.91,D01
+100548,2025-06-01,Revenue,Subscriptions,10792.15,D03
+100549,2025-05-31,Expense,Office & Facilities,-9604.38,D04
+100550,2025-07-09,Expense,Payroll,-842.69,D03
+100551,2025-08-12,Expense,Payroll,-2201.43,D01
+100552,2025-02-06,Expense,Cloud Services,-5257.05,D03
+100553,2025-09-25,Expense,Payroll,-13828.24,D02
+100554,2025-07-02,Expense,Cloud Services,-11120.29,D04
+100555,2025-01-13,Revenue,Product Revenue,11180.17,D03
+100556,2025-10-06,Expense,Software Licenses,-17339.5,D05
+100557,2025-08-05,Revenue,Product Revenue,13960.5,D05
+100558,2025-12-21,Revenue,Product Revenue,3180.71,D05
+100559,2025-12-27,Expense,Office & Facilities,-3784.81,D01
+100560,2025-10-13,Revenue,Service Revenue,8456.69,D05
+100561,2025-09-30,Expense,Marketing,-16704.82,D05
+100562,2025-03-03,Revenue,Product Revenue,22409.13,D05
+100563,2025-03-25,Expense,Office & Facilities,-7062.33,D02
+100564,2025-08-05,Revenue,Subscriptions,15620.34,D05
+100565,2025-12-08,Expense,Cloud Services,-8788.67,D04
+100566,2025-07-06,Expense,Office & Facilities,-1452.59,D04
+100567,2025-01-19,Revenue,Subscriptions,23861.03,D01
+100568,2025-06-26,Expense,Payroll,-10439.52,D02
+100569,2025-04-10,Revenue,Subscriptions,23684.04,D01
+100570,2025-08-21,Revenue,Service Revenue,17376.97,D04
+100571,2025-03-17,Expense,Cloud Services,-6160.58,D04
+100572,2025-09-22,Expense,Marketing,-1187.75,D04
+100573,2025-10-11,Revenue,Service Revenue,13460.98,D05
+100574,2025-07-25,Expense,Software Licenses,-2593.51,D02
+100575,2025-08-11,Revenue,Service Revenue,17990.66,D04
+100576,2025-02-21,Expense,Payroll,-9209.19,D05
+100577,2025-12-05,Expense,Cloud Services,-10258.11,D04
+100578,2025-05-24,Revenue,Subscriptions,4161.24,D04
+100579,2025-03-10,Revenue,Product Revenue,8839.73,D03
+100580,2025-04-09,Expense,Marketing,-5146.48,D02
+100581,2025-01-25,Revenue,Product Revenue,19748.89,D01
+100582,2025-02-22,Expense,Marketing,-11448.69,D05
+100583,2025-05-31,Revenue,Subscriptions,17555.12,D01
+100584,2025-05-24,Expense,Marketing,-14575.59,D05
+100585,2025-02-26,Revenue,Subscriptions,10985.24,D03
+100586,2025-02-08,Expense,Payroll,-4237.63,D02
+100587,2025-04-19,Expense,Payroll,-17783.34,D01
+100588,2025-06-30,Revenue,Service Revenue,6574.98,D03
+100589,2025-02-11,Expense,Marketing,-5495.28,D01
+100590,2025-07-05,Revenue,Service Revenue,10643.59,D03
+100591,2025-08-11,Expense,Office & Facilities,-8207.95,D04
+100592,2025-05-02,Expense,Software Licenses,-2010.03,D04
+100593,2025-05-13,Revenue,Subscriptions,18041.37,D04
+100594,2025-06-12,Revenue,Product Revenue,13089.25,D02
+100595,2025-08-03,Expense,Cloud Services,-3101.64,D03
+100596,2025-08-09,Expense,Payroll,-15497.13,D05
+100597,2025-08-23,Expense,Office & Facilities,-5232.46,D02
+100598,2025-11-27,Expense,Payroll,-11377.0,D05
+100599,2025-05-26,Revenue,Product Revenue,16410.77,D05
+100600,2025-08-27,Expense,Cloud Services,-16710.69,D04
+100601,2025-03-17,Expense,Office & Facilities,-15792.38,D05
+100602,2025-01-09,Expense,Cloud Services,-3786.09,D01
+100603,2025-03-15,Expense,Marketing,-6973.32,D05
+100604,2025-09-10,Expense,Office & Facilities,-11889.12,D04
+100605,2025-08-18,Revenue,Product Revenue,17073.08,D03
+100606,2025-01-07,Revenue,Service Revenue,3031.87,D02
+100607,2025-06-23,Expense,Office & Facilities,-6447.44,D02
+100608,2025-05-21,Revenue,Product Revenue,15064.3,D03
+100609,2025-06-17,Revenue,Subscriptions,10638.86,D04
+100610,2025-06-19,Revenue,Service Revenue,24204.1,D05
+100611,2025-10-10,Revenue,Service Revenue,9589.05,D01
+100612,2025-05-02,Expense,Cloud Services,-9179.23,D04
+100613,2025-07-13,Expense,Office & Facilities,-6641.32,D01
+100614,2025-01-05,Revenue,Product Revenue,11481.35,D02
+100615,2025-01-29,Expense,Software Licenses,-9496.82,D01
+100616,2025-06-14,Expense,Office & Facilities,-8128.42,D01
+100617,2025-12-05,Expense,Cloud Services,-12973.32,D05
+100618,2025-05-16,Expense,Cloud Services,-2591.97,D02
+100619,2025-12-31,Expense,Marketing,-1733.7,D03
+100620,2025-11-17,Expense,Software Licenses,-9145.71,D02
+100621,2025-12-08,Expense,Payroll,-15130.2,D03
+100622,2025-05-25,Revenue,Subscriptions,7533.21,D05
+100623,2025-11-23,Expense,Office & Facilities,-15185.8,D04
+100624,2025-08-05,Expense,Marketing,-13269.57,D01
+100625,2025-10-28,Expense,Payroll,-16308.47,D02
+100626,2025-05-12,Expense,Software Licenses,-16842.7,D03
+100627,2025-10-19,Expense,Payroll,-4388.56,D05
+100628,2025-03-11,Expense,Software Licenses,-1147.38,D01
+100629,2025-09-09,Revenue,Product Revenue,6232.06,D05
+100630,2025-10-02,Revenue,Subscriptions,24726.07,D03
+100631,2025-12-30,Expense,Marketing,-14495.41,D05
+100632,2025-07-01,Revenue,Subscriptions,22765.2,D02
+100633,2025-06-16,Expense,Marketing,-4472.1,D01
+100634,2025-04-01,Revenue,Product Revenue,9796.94,D05
+100635,2025-07-21,Expense,Payroll,-4302.08,D03
+100636,2025-12-12,Revenue,Subscriptions,16117.14,D03
+100637,2025-01-19,Revenue,Product Revenue,16003.14,D04
+100638,2025-02-08,Expense,Marketing,-15525.33,D01
+100639,2025-05-06,Revenue,Product Revenue,18964.79,D04
+100640,2025-06-22,Expense,Payroll,-7197.88,D03
+100641,2025-05-21,Expense,Payroll,-17089.99,D02
+100642,2025-08-30,Expense,Software Licenses,-8267.35,D04
+100643,2025-08-08,Expense,Marketing,-7357.55,D04
+100644,2025-05-06,Expense,Marketing,-8661.42,D01
+100645,2025-02-27,Expense,Software Licenses,-17126.2,D05
+100646,2025-05-28,Expense,Software Licenses,-16551.54,D04
+100647,2025-11-13,Expense,Cloud Services,-13778.18,D02
+100648,2025-12-27,Revenue,Service Revenue,9075.77,D05
+100649,2025-01-01,Revenue,Product Revenue,10984.83,D04
+100650,2025-12-14,Expense,Payroll,-10983.47,D04
+100651,2025-07-09,Expense,Software Licenses,-11657.93,D01
+100652,2025-07-10,Expense,Payroll,-17361.65,D01
+100653,2025-11-08,Expense,Software Licenses,-14265.82,D01
+100654,2025-04-27,Revenue,Service Revenue,10172.78,D02
+100655,2025-05-14,Revenue,Service Revenue,23387.95,D04
+100656,2025-02-27,Expense,Software Licenses,-16757.93,D02
+100657,2025-02-13,Expense,Cloud Services,-8771.76,D02
+100658,2025-06-22,Revenue,Service Revenue,15121.36,D04
+100659,2025-06-09,Expense,Marketing,-15721.5,D03
+100660,2025-06-22,Expense,Cloud Services,-2218.23,D04
+100661,2025-11-13,Revenue,Subscriptions,19976.15,D04
+100662,2025-10-30,Revenue,Subscriptions,4225.23,D04
+100663,2025-05-29,Expense,Cloud Services,-1898.0,D02
+100664,2025-03-21,Expense,Office & Facilities,-9883.28,D04
+100665,2025-08-01,Expense,Payroll,-8148.31,D03
+100666,2025-07-22,Expense,Office & Facilities,-12752.29,D04
+100667,2025-09-09,Expense,Software Licenses,-12865.92,D01
+100668,2025-08-17,Expense,Software Licenses,-5426.62,D05
+100669,2025-06-13,Expense,Marketing,-14474.36,D02
+100670,2025-08-15,Expense,Payroll,-13153.09,D05
+100671,2025-05-27,Expense,Office & Facilities,-11528.34,D04
+100672,2025-01-20,Revenue,Subscriptions,13768.02,D01
+100673,2025-02-16,Revenue,Service Revenue,18515.37,D05
+100674,2025-08-21,Revenue,Service Revenue,1629.09,D01
+100675,2025-11-01,Expense,Software Licenses,-11779.34,D01
+100676,2025-01-14,Revenue,Product Revenue,16077.18,D01
+100677,2025-05-23,Revenue,Service Revenue,18891.8,D02
+100678,2025-01-01,Expense,Software Licenses,-10992.58,D04
+100679,2025-02-23,Expense,Office & Facilities,-15255.91,D02
+100680,2025-09-16,Expense,Cloud Services,-14385.97,D05
+100681,2025-05-24,Revenue,Subscriptions,4665.96,D05
+100682,2025-01-12,Revenue,Product Revenue,2926.03,D04
+100683,2025-11-26,Revenue,Product Revenue,7353.66,D05
+100684,2025-08-12,Revenue,Product Revenue,19593.59,D04
+100685,2025-09-29,Revenue,Subscriptions,3718.16,D05
+100686,2025-12-24,Revenue,Product Revenue,1294.25,D05
+100687,2025-06-05,Revenue,Product Revenue,22476.56,D02
+100688,2025-01-08,Revenue,Product Revenue,5227.03,D05
+100689,2025-05-02,Expense,Marketing,-11315.55,D05
+100690,2025-12-14,Revenue,Product Revenue,21466.58,D03
+100691,2025-06-13,Expense,Software Licenses,-11979.88,D02
+100692,2025-03-31,Expense,Payroll,-11729.46,D05
+100693,2025-05-16,Revenue,Service Revenue,14737.74,D05
+100694,2025-07-05,Revenue,Subscriptions,8809.36,D04
+100695,2025-11-12,Expense,Cloud Services,-5904.96,D03
+100696,2025-06-27,Expense,Cloud Services,-7661.23,D01
+100697,2025-01-28,Expense,Cloud Services,-8334.49,D02
+100698,2025-08-08,Expense,Payroll,-16598.65,D02
+100699,2025-12-23,Expense,Cloud Services,-1162.58,D05
+100700,2025-02-10,Revenue,Subscriptions,22627.43,D05
+100701,2025-08-16,Expense,Software Licenses,-10876.94,D01
+100702,2025-07-11,Expense,Software Licenses,-4655.0,D02
+100703,2025-05-25,Expense,Payroll,-9919.37,D03
+100704,2025-07-20,Expense,Office & Facilities,-7414.24,D05
+100705,2025-07-31,Revenue,Service Revenue,2477.99,D04
+100706,2025-08-08,Revenue,Service Revenue,16158.39,D02
+100707,2025-08-28,Revenue,Product Revenue,17702.94,D02
+100708,2025-02-15,Revenue,Product Revenue,22202.1,D03
+100709,2025-02-04,Expense,Marketing,-17178.16,D03
+100710,2025-09-10,Revenue,Service Revenue,19334.04,D05
+100711,2025-03-23,Revenue,Product Revenue,10416.46,D03
+100712,2025-09-13,Expense,Cloud Services,-16700.83,D03
+100713,2025-07-16,Expense,Marketing,-5725.18,D04
+100714,2025-10-30,Expense,Software Licenses,-9671.53,D01
+100715,2025-01-10,Expense,Marketing,-9414.28,D04
+100716,2025-11-08,Revenue,Service Revenue,17648.32,D03
+100717,2025-10-13,Expense,Payroll,-1934.63,D01
+100718,2025-08-30,Expense,Cloud Services,-5035.19,D05
+100719,2025-09-08,Revenue,Service Revenue,1439.12,D04
+100720,2025-12-31,Expense,Office & Facilities,-10933.96,D03
+100721,2025-01-05,Revenue,Service Revenue,15662.92,D03
+100722,2025-04-29,Expense,Marketing,-3302.33,D02
+100723,2025-10-16,Expense,Office & Facilities,-5147.54,D03
+100724,2025-03-06,Expense,Software Licenses,-14785.19,D05
+100725,2025-05-26,Revenue,Service Revenue,22658.82,D03
+100726,2025-08-12,Expense,Office & Facilities,-16944.89,D04
+100727,2025-08-27,Expense,Software Licenses,-1156.67,D03
+100728,2025-06-26,Expense,Software Licenses,-9024.51,D02
+100729,2025-09-24,Expense,Cloud Services,-5015.16,D04
+100730,2025-12-07,Expense,Payroll,-14733.16,D04
+100731,2025-10-09,Expense,Office & Facilities,-17899.13,D04
+100732,2025-03-04,Expense,Marketing,-6611.68,D02
+100733,2025-08-05,Revenue,Product Revenue,8030.29,D02
+100734,2025-12-08,Revenue,Service Revenue,22835.69,D05
+100735,2025-11-11,Expense,Software Licenses,-11704.31,D02
+100736,2025-10-10,Expense,Marketing,-3043.89,D05
+100737,2025-06-26,Revenue,Subscriptions,15246.06,D03
+100738,2025-04-08,Expense,Software Licenses,-13083.53,D04
+100739,2025-04-15,Expense,Marketing,-2007.58,D02
+100740,2025-04-09,Expense,Payroll,-7645.92,D04
+100741,2025-11-07,Revenue,Product Revenue,5912.47,D03
+100742,2025-01-06,Revenue,Subscriptions,4412.49,D01
+100743,2025-07-16,Expense,Payroll,-4983.23,D02
+100744,2025-12-17,Revenue,Subscriptions,7063.09,D05
+100745,2025-05-13,Revenue,Product Revenue,22043.15,D01
+100746,2025-12-24,Revenue,Service Revenue,9570.69,D01
+100747,2025-09-16,Revenue,Product Revenue,7956.3,D01
+100748,2025-01-23,Expense,Software Licenses,-17572.42,D03
+100749,2025-02-22,Expense,Cloud Services,-8624.57,D03
+100750,2025-06-14,Revenue,Subscriptions,1499.35,D03
+100751,2025-07-21,Revenue,Service Revenue,11378.52,D01
+100752,2025-03-24,Revenue,Subscriptions,23416.23,D03
+100753,2025-05-25,Revenue,Service Revenue,23535.05,D04
+100754,2025-03-26,Expense,Office & Facilities,-6318.25,D03
+100755,2025-03-19,Expense,Software Licenses,-17975.43,D05
+100756,2025-01-01,Expense,Payroll,-7648.59,D02
+100757,2025-02-20,Revenue,Subscriptions,7490.33,D02
+100758,2025-06-22,Revenue,Product Revenue,1557.54,D01
+100759,2025-07-24,Expense,Payroll,-13280.12,D04
+100760,2025-09-17,Expense,Software Licenses,-12273.15,D04
+100761,2025-10-15,Revenue,Service Revenue,5672.64,D01
+100762,2025-02-03,Expense,Office & Facilities,-10548.08,D05
+100763,2025-12-14,Expense,Cloud Services,-17104.35,D05
+100764,2025-04-05,Expense,Software Licenses,-3216.55,D01
+100765,2025-03-13,Expense,Marketing,-9097.29,D01
+100766,2025-02-08,Revenue,Subscriptions,9847.08,D01
+100767,2025-06-03,Revenue,Service Revenue,5173.41,D03
+100768,2025-09-07,Expense,Payroll,-11098.46,D05
+100769,2025-06-11,Expense,Office & Facilities,-2355.11,D04
+100770,2025-04-28,Expense,Cloud Services,-11243.17,D05
+100771,2025-09-16,Expense,Office & Facilities,-12148.16,D04
+100772,2025-11-02,Expense,Software Licenses,-17831.79,D05
+100773,2025-09-25,Expense,Cloud Services,-11838.63,D01
+100774,2025-02-23,Expense,Software Licenses,-9542.11,D01
+100775,2025-08-24,Revenue,Product Revenue,21640.43,D02
+100776,2025-08-10,Revenue,Product Revenue,21465.44,D03
+100777,2025-09-08,Expense,Office & Facilities,-15028.57,D04
+100778,2025-11-09,Expense,Software Licenses,-3371.2,D02
+100779,2025-04-22,Expense,Software Licenses,-7023.99,D03
+100780,2025-09-12,Revenue,Product Revenue,8750.77,D02
+100781,2025-10-30,Expense,Payroll,-13005.67,D01
+100782,2025-07-26,Expense,Payroll,-16398.56,D04
+100783,2025-08-17,Revenue,Service Revenue,10713.33,D04
+100784,2025-12-07,Revenue,Product Revenue,12405.43,D03
+100785,2025-03-07,Expense,Marketing,-17332.42,D05
+100786,2025-03-16,Revenue,Subscriptions,22082.29,D04
+100787,2025-04-13,Revenue,Service Revenue,4999.26,D05
+100788,2025-07-11,Expense,Marketing,-11257.63,D02
+100789,2025-09-09,Revenue,Service Revenue,6941.62,D02
+100790,2025-08-14,Expense,Marketing,-17637.81,D04
+100791,2025-10-21,Expense,Office & Facilities,-3951.15,D05
+100792,2025-11-02,Revenue,Service Revenue,10326.85,D01
+100793,2025-04-08,Expense,Office & Facilities,-2228.27,D01
+100794,2025-12-04,Revenue,Service Revenue,23399.96,D05
+100795,2025-10-13,Expense,Software Licenses,-2894.06,D02
+100796,2025-12-01,Expense,Payroll,-13752.19,D03
+100797,2025-12-13,Expense,Cloud Services,-15746.55,D03
+100798,2025-11-04,Revenue,Product Revenue,11492.0,D04
+100799,2025-09-06,Revenue,Subscriptions,1414.17,D03
+100800,2025-06-15,Revenue,Product Revenue,7935.42,D02
+100801,2025-12-01,Expense,Marketing,-3628.17,D05
+100802,2025-01-30,Revenue,Subscriptions,7427.78,D01
+100803,2025-09-04,Expense,Cloud Services,-2205.5,D04
+100804,2025-04-16,Expense,Marketing,-4706.45,D05
+100805,2025-02-20,Revenue,Product Revenue,12593.1,D03
+100806,2025-03-22,Revenue,Product Revenue,16104.97,D05
+100807,2025-05-13,Expense,Software Licenses,-17201.87,D01
+100808,2025-10-12,Expense,Office & Facilities,-1447.32,D05
+100809,2025-05-18,Expense,Payroll,-5445.91,D03
+100810,2025-07-03,Expense,Office & Facilities,-4992.78,D04
+100811,2025-11-26,Expense,Marketing,-16263.7,D04
+100812,2025-09-30,Revenue,Subscriptions,8692.36,D02
+100813,2025-12-06,Expense,Marketing,-2270.15,D04
+100814,2025-03-10,Expense,Software Licenses,-9993.3,D02
+100815,2025-02-03,Revenue,Product Revenue,12878.53,D04
+100816,2025-09-19,Revenue,Product Revenue,2895.95,D04
+100817,2025-02-22,Revenue,Service Revenue,14257.5,D02
+100818,2025-07-24,Expense,Marketing,-8602.08,D02
+100819,2025-05-06,Expense,Office & Facilities,-12176.87,D05
+100820,2025-08-23,Expense,Marketing,-17190.55,D05
+100821,2025-02-12,Expense,Software Licenses,-2452.01,D05
+100822,2025-08-28,Expense,Cloud Services,-12396.59,D02
+100823,2025-04-21,Expense,Marketing,-10295.2,D01
+100824,2025-09-06,Revenue,Product Revenue,16904.9,D01
+100825,2025-05-31,Revenue,Service Revenue,22167.9,D04
+100826,2025-07-02,Revenue,Service Revenue,3056.25,D03
+100827,2025-12-02,Expense,Cloud Services,-11996.3,D04
+100828,2025-04-05,Expense,Cloud Services,-16761.93,D03
+100829,2025-01-08,Expense,Software Licenses,-4744.1,D03
+100830,2025-12-26,Revenue,Product Revenue,6735.12,D03
+100831,2025-07-03,Expense,Marketing,-5303.81,D05
+100832,2025-10-08,Revenue,Service Revenue,6770.58,D03
+100833,2025-07-14,Revenue,Service Revenue,9525.32,D01
+100834,2025-12-18,Expense,Payroll,-12335.67,D02
+100835,2025-07-14,Expense,Office & Facilities,-5672.44,D04
+100836,2025-06-04,Expense,Marketing,-9516.14,D03
+100837,2025-04-03,Revenue,Product Revenue,4078.86,D05
+100838,2025-06-09,Revenue,Service Revenue,5359.92,D04
+100839,2025-03-02,Expense,Payroll,-12004.04,D04
+100840,2025-05-02,Expense,Software Licenses,-6200.38,D04
+100841,2025-02-20,Expense,Cloud Services,-9474.12,D01
+100842,2025-10-04,Expense,Cloud Services,-12756.78,D02
+100843,2025-01-05,Expense,Office & Facilities,-14624.77,D01
+100844,2025-04-02,Expense,Software Licenses,-12674.33,D05
+100845,2025-06-19,Expense,Payroll,-9048.16,D02
+100846,2025-11-13,Revenue,Service Revenue,19135.92,D03
+100847,2025-01-22,Expense,Payroll,-8773.74,D02
+100848,2025-11-22,Expense,Office & Facilities,-14126.44,D05
+100849,2025-01-01,Expense,Payroll,-3062.21,D02
+100850,2025-05-13,Revenue,Service Revenue,13032.58,D03
+100851,2025-08-21,Expense,Software Licenses,-16605.78,D03
+100852,2025-01-12,Revenue,Subscriptions,21638.07,D04
+100853,2025-12-12,Expense,Office & Facilities,-1614.03,D03
+100854,2025-02-15,Expense,Cloud Services,-1722.29,D01
+100855,2025-02-03,Revenue,Subscriptions,1737.13,D02
+100856,2025-03-19,Revenue,Subscriptions,13238.26,D05
+100857,2025-08-06,Expense,Payroll,-10646.9,D05
+100858,2025-10-28,Expense,Payroll,-14633.17,D02
+100859,2025-03-14,Expense,Office & Facilities,-985.47,D01
+100860,2025-10-09,Revenue,Subscriptions,23707.03,D05
+100861,2025-09-06,Expense,Marketing,-4057.61,D04
+100862,2025-02-16,Revenue,Service Revenue,21007.29,D01
+100863,2025-05-01,Expense,Office & Facilities,-8010.29,D01
+100864,2025-08-02,Revenue,Service Revenue,13922.4,D02
+100865,2025-08-27,Expense,Software Licenses,-17177.17,D05
+100866,2025-02-25,Expense,Payroll,-844.33,D01
+100867,2025-12-16,Expense,Payroll,-6471.63,D04
+100868,2025-04-17,Expense,Payroll,-11168.39,D04
+100869,2025-11-15,Expense,Marketing,-6366.1,D05
+100870,2025-02-17,Expense,Cloud Services,-11014.91,D05
+100871,2025-03-02,Expense,Software Licenses,-6521.56,D04
+100872,2025-12-03,Expense,Cloud Services,-1241.19,D05
+100873,2025-01-26,Expense,Payroll,-7820.9,D03
+100874,2025-10-19,Expense,Payroll,-5679.2,D05
+100875,2025-09-14,Expense,Payroll,-11850.77,D03
+100876,2025-01-08,Expense,Payroll,-2815.21,D02
+100877,2025-04-23,Expense,Software Licenses,-17080.92,D02
+100878,2025-12-21,Revenue,Service Revenue,15975.49,D05
+100879,2025-09-10,Expense,Software Licenses,-15818.28,D02
+100880,2025-06-29,Expense,Office & Facilities,-17423.01,D02
+100881,2025-07-26,Revenue,Product Revenue,21210.68,D05
+100882,2025-10-30,Revenue,Product Revenue,23150.93,D01
+100883,2025-05-07,Expense,Payroll,-10749.27,D01
+100884,2025-02-25,Expense,Marketing,-12125.0,D05
+100885,2025-08-02,Expense,Payroll,-7615.41,D01
+100886,2025-01-14,Expense,Software Licenses,-2151.59,D03
+100887,2025-01-28,Revenue,Service Revenue,19011.33,D03
+100888,2025-03-19,Expense,Office & Facilities,-3092.91,D01
+100889,2025-08-04,Expense,Software Licenses,-12419.66,D04
+100890,2025-12-31,Expense,Payroll,-10165.37,D05
+100891,2025-06-03,Expense,Software Licenses,-17580.47,D05
+100892,2025-01-14,Expense,Software Licenses,-14501.3,D01
+100893,2025-07-06,Expense,Cloud Services,-10193.46,D05
+100894,2025-11-08,Expense,Software Licenses,-3476.28,D01
+100895,2025-01-07,Expense,Cloud Services,-7909.68,D02
+100896,2025-01-03,Expense,Office & Facilities,-5697.41,D03
+100897,2025-04-21,Revenue,Service Revenue,5971.16,D03
+100898,2025-08-26,Expense,Marketing,-3576.95,D04
+100899,2025-12-29,Expense,Payroll,-7429.89,D04
+100900,2025-08-27,Expense,Marketing,-3611.3,D05
+100901,2025-10-01,Expense,Payroll,-17048.28,D02
+100902,2025-10-21,Expense,Software Licenses,-1067.6,D01
+100903,2025-08-15,Expense,Payroll,-8650.16,D05
+100904,2025-01-15,Expense,Cloud Services,-9183.56,D04
+100905,2025-07-11,Revenue,Service Revenue,14794.89,D04
+100906,2025-04-29,Expense,Cloud Services,-1097.9,D02
+100907,2025-01-28,Expense,Software Licenses,-4186.11,D02
+100908,2025-07-21,Revenue,Service Revenue,11027.29,D01
+100909,2025-02-08,Revenue,Service Revenue,16517.11,D05
+100910,2025-09-30,Revenue,Service Revenue,21751.1,D05
+100911,2025-08-19,Revenue,Service Revenue,11793.54,D01
+100912,2025-03-27,Expense,Marketing,-15180.57,D04
+100913,2025-05-06,Revenue,Subscriptions,5279.28,D04
+100914,2025-10-27,Revenue,Product Revenue,7008.72,D01
+100915,2025-01-25,Revenue,Product Revenue,7742.52,D02
+100916,2025-05-25,Expense,Payroll,-2419.39,D05
+100917,2025-01-13,Revenue,Service Revenue,20352.48,D04
+100918,2025-07-31,Expense,Payroll,-6652.07,D04
+100919,2025-01-25,Expense,Marketing,-7208.78,D04
+100920,2025-03-09,Expense,Marketing,-953.83,D04
+100921,2025-03-08,Expense,Cloud Services,-10291.46,D05
+100922,2025-08-21,Revenue,Product Revenue,12060.56,D01
+100923,2025-04-19,Expense,Marketing,-14326.64,D05
+100924,2025-05-26,Expense,Software Licenses,-4336.59,D05
+100925,2025-04-21,Expense,Cloud Services,-2728.82,D05
+100926,2025-08-16,Revenue,Service Revenue,4230.02,D05
+100927,2025-04-21,Revenue,Service Revenue,14333.52,D03
+100928,2025-02-03,Expense,Cloud Services,-9724.64,D03
+100929,2025-04-21,Expense,Software Licenses,-6202.93,D04
+100930,2025-09-21,Expense,Marketing,-11782.8,D05
+100931,2025-08-24,Expense,Software Licenses,-11591.19,D01
+100932,2025-03-24,Expense,Office & Facilities,-10419.01,D03
+100933,2025-02-11,Expense,Software Licenses,-14585.06,D01
+100934,2025-04-11,Expense,Office & Facilities,-17689.36,D03
+100935,2025-01-06,Expense,Office & Facilities,-4345.03,D05
+100936,2025-06-29,Expense,Payroll,-13488.36,D04
+100937,2025-10-09,Expense,Office & Facilities,-11573.98,D03
+100938,2025-11-16,Revenue,Service Revenue,22033.84,D01
+100939,2025-08-14,Revenue,Product Revenue,8428.63,D04
+100940,2025-11-11,Expense,Payroll,-16183.71,D01
+100941,2025-12-31,Expense,Software Licenses,-9547.8,D04
+100942,2025-08-17,Expense,Payroll,-9634.06,D04
+100943,2025-10-16,Revenue,Subscriptions,2542.35,D02
+100944,2025-05-30,Revenue,Service Revenue,6935.71,D03
+100945,2025-10-04,Revenue,Product Revenue,6133.32,D03
+100946,2025-07-17,Expense,Marketing,-16092.17,D04
+100947,2025-03-11,Expense,Software Licenses,-4053.76,D05
+100948,2025-04-22,Revenue,Subscriptions,24491.97,D01
+100949,2025-01-04,Expense,Payroll,-15105.92,D02
+100950,2025-12-16,Expense,Payroll,-4292.5,D02
+100951,2025-11-27,Expense,Office & Facilities,-5785.02,D03
+100952,2025-11-14,Expense,Office & Facilities,-4277.8,D02
+100953,2025-12-16,Revenue,Subscriptions,4294.62,D03
+100954,2025-04-05,Revenue,Product Revenue,15594.28,D04
+100955,2025-06-01,Expense,Software Licenses,-6833.26,D04
+100956,2025-11-07,Expense,Office & Facilities,-2974.84,D02
+100957,2025-05-17,Expense,Payroll,-2562.51,D03
+100958,2025-09-04,Expense,Marketing,-1554.51,D03
+100959,2025-08-31,Expense,Payroll,-15855.2,D03
+100960,2025-01-31,Revenue,Service Revenue,7642.06,D04
+100961,2025-02-09,Expense,Payroll,-16981.36,D05
+100962,2025-08-17,Revenue,Subscriptions,17961.37,D04
+100963,2025-02-05,Expense,Office & Facilities,-13104.95,D04
+100964,2025-08-11,Expense,Office & Facilities,-17541.16,D02
+100965,2025-01-06,Expense,Software Licenses,-17152.49,D05
+100966,2025-11-18,Revenue,Subscriptions,2430.12,D02
+100967,2025-08-08,Revenue,Subscriptions,11846.51,D01
+100968,2025-03-16,Expense,Cloud Services,-9936.31,D04
+100969,2025-01-04,Expense,Office & Facilities,-7901.32,D04
+100970,2025-12-01,Expense,Cloud Services,-4812.67,D05
+100971,2025-05-14,Expense,Cloud Services,-10261.5,D01
+100972,2025-04-28,Revenue,Subscriptions,12016.69,D04
+100973,2025-04-04,Revenue,Product Revenue,9536.48,D04
+100974,2025-03-03,Revenue,Product Revenue,10202.92,D02
+100975,2025-07-13,Expense,Office & Facilities,-1043.23,D05
+100976,2025-12-01,Expense,Software Licenses,-12258.38,D05
+100977,2025-07-22,Revenue,Service Revenue,15187.03,D03
+100978,2025-01-26,Revenue,Subscriptions,23048.65,D02
+100979,2025-06-22,Expense,Payroll,-4947.11,D02
+100980,2025-10-27,Expense,Cloud Services,-16356.12,D01
+100981,2025-05-13,Expense,Office & Facilities,-6757.11,D03
+100982,2025-11-22,Revenue,Subscriptions,4454.3,D05
+100983,2025-04-28,Revenue,Subscriptions,21845.95,D02
+100984,2025-11-20,Expense,Software Licenses,-8468.99,D04
+100985,2025-10-02,Revenue,Product Revenue,22999.44,D03
+100986,2025-07-31,Expense,Office & Facilities,-13662.12,D04
+100987,2025-08-13,Expense,Software Licenses,-15303.68,D04
+100988,2025-01-20,Expense,Cloud Services,-7075.3,D02
+100989,2025-04-23,Revenue,Service Revenue,5404.1,D03
+100990,2025-05-20,Revenue,Subscriptions,21652.12,D05
+100991,2025-02-16,Expense,Cloud Services,-16434.18,D02
+100992,2025-01-01,Expense,Office & Facilities,-6576.57,D02
+100993,2025-03-31,Revenue,Service Revenue,11866.23,D04
+100994,2025-05-22,Expense,Software Licenses,-6345.09,D05
+100995,2025-11-16,Expense,Software Licenses,-14189.73,D04
+100996,2025-02-07,Expense,Software Licenses,-11070.29,D01
+100997,2025-10-20,Revenue,Service Revenue,10784.54,D03
+100998,2025-05-19,Revenue,Product Revenue,3092.57,D03
+100999,2025-12-22,Expense,Software Licenses,-16175.22,D03
+101000,2025-11-29,Expense,Cloud Services,-14904.01,D03
+101001,2025-09-16,Expense,Marketing,-10595.51,D03
+101002,2025-06-10,Expense,Payroll,-8441.88,D04
+101003,2025-06-27,Expense,Payroll,-13441.4,D03
+101004,2025-01-10,Expense,Software Licenses,-4790.97,D05
+101005,2025-09-18,Expense,Software Licenses,-15321.07,D01
+101006,2025-05-18,Expense,Payroll,-1470.44,D01
+101007,2025-06-21,Revenue,Product Revenue,14192.48,D01
+101008,2025-01-13,Expense,Cloud Services,-818.93,D04
+101009,2025-06-17,Expense,Software Licenses,-10638.07,D04
+101010,2025-05-10,Expense,Office & Facilities,-7861.1,D04
+101011,2025-03-25,Expense,Software Licenses,-9323.96,D04
+101012,2025-11-17,Expense,Cloud Services,-3673.58,D01
+101013,2025-11-15,Expense,Software Licenses,-12612.09,D03
+101014,2025-04-11,Expense,Software Licenses,-10695.52,D05
+101015,2025-11-25,Expense,Cloud Services,-10670.82,D04
+101016,2025-09-30,Expense,Marketing,-15874.55,D02
+101017,2025-09-22,Expense,Marketing,-14330.16,D01
+101018,2025-02-07,Expense,Payroll,-16793.97,D01
+101019,2025-04-04,Revenue,Service Revenue,13939.02,D01
+101020,2025-04-05,Expense,Payroll,-3244.31,D01
+101021,2025-11-01,Revenue,Product Revenue,3289.0,D04
+101022,2025-03-10,Expense,Software Licenses,-9283.56,D01
+101023,2025-11-14,Expense,Marketing,-3528.66,D01
+101024,2025-08-24,Expense,Office & Facilities,-17371.85,D02
+101025,2025-11-30,Revenue,Service Revenue,3196.19,D02
+101026,2025-05-17,Revenue,Product Revenue,7438.29,D04
+101027,2025-03-17,Revenue,Product Revenue,15104.55,D02
+101028,2025-02-04,Revenue,Subscriptions,3167.48,D05
+101029,2025-01-01,Revenue,Product Revenue,23098.71,D03
+101030,2025-10-23,Expense,Office & Facilities,-16198.08,D01
+101031,2025-11-16,Revenue,Product Revenue,21017.86,D01
+101032,2025-03-01,Expense,Software Licenses,-6450.0,D04
+101033,2025-11-16,Expense,Marketing,-14314.04,D05
+101034,2025-12-15,Revenue,Subscriptions,17815.18,D01
+101035,2025-11-24,Revenue,Product Revenue,8865.52,D02
+101036,2025-09-24,Revenue,Subscriptions,13849.37,D05
+101037,2025-12-27,Expense,Office & Facilities,-17520.98,D01
+101038,2025-08-17,Revenue,Subscriptions,3829.51,D02
+101039,2025-09-27,Expense,Software Licenses,-7810.02,D05
+101040,2025-11-12,Expense,Cloud Services,-7517.54,D01
+101041,2025-10-13,Expense,Marketing,-2016.71,D05
+101042,2025-10-18,Expense,Payroll,-11144.67,D03
+101043,2025-08-01,Expense,Payroll,-3325.42,D01
+101044,2025-06-14,Expense,Marketing,-7819.07,D02
+101045,2025-01-05,Expense,Payroll,-16630.1,D04
+101046,2025-12-05,Revenue,Subscriptions,16638.94,D02
+101047,2025-03-19,Revenue,Product Revenue,15187.13,D05
+101048,2025-03-03,Expense,Marketing,-1183.34,D02
+101049,2025-05-12,Revenue,Product Revenue,16194.82,D02
+101050,2025-03-30,Revenue,Service Revenue,3196.77,D03
+101051,2025-08-25,Expense,Office & Facilities,-6666.18,D03
+101052,2025-02-11,Revenue,Product Revenue,20429.58,D04
+101053,2025-03-30,Revenue,Product Revenue,13589.58,D05
+101054,2025-10-23,Revenue,Subscriptions,11125.87,D01
+101055,2025-11-24,Expense,Payroll,-3911.35,D01
+101056,2025-10-22,Expense,Payroll,-4036.81,D02
+101057,2025-04-14,Revenue,Subscriptions,7536.36,D04
+101058,2025-01-14,Revenue,Product Revenue,23415.9,D02
+101059,2025-10-15,Expense,Payroll,-11136.5,D05
+101060,2025-06-28,Expense,Software Licenses,-2999.78,D05
+101061,2025-05-05,Expense,Office & Facilities,-15670.8,D04
+101062,2025-12-19,Expense,Payroll,-8922.32,D01
+101063,2025-01-23,Expense,Cloud Services,-13690.0,D01
+101064,2025-03-04,Expense,Payroll,-10848.48,D04
+101065,2025-05-23,Expense,Marketing,-8501.78,D01
+101066,2025-06-02,Revenue,Product Revenue,24087.04,D01
+101067,2025-05-25,Revenue,Product Revenue,14151.49,D03
+101068,2025-08-13,Revenue,Subscriptions,23396.97,D02
+101069,2025-11-05,Revenue,Subscriptions,9971.79,D01
+101070,2025-04-14,Expense,Software Licenses,-13340.36,D03
+101071,2025-04-14,Expense,Marketing,-4275.38,D05
+101072,2025-02-08,Revenue,Service Revenue,18357.26,D03
+101073,2025-07-17,Revenue,Service Revenue,21267.63,D01
+101074,2025-05-14,Expense,Marketing,-1735.17,D05
+101075,2025-03-08,Expense,Cloud Services,-4379.21,D01
+101076,2025-06-28,Expense,Office & Facilities,-12527.78,D01
+101077,2025-02-11,Revenue,Product Revenue,7539.79,D02
+101078,2025-01-15,Revenue,Product Revenue,12527.42,D02
+101079,2025-04-21,Revenue,Product Revenue,11064.65,D02
+101080,2025-06-06,Revenue,Product Revenue,12842.88,D03
+101081,2025-10-16,Revenue,Service Revenue,8987.86,D05
+101082,2025-08-19,Expense,Marketing,-12310.33,D02
+101083,2025-06-06,Revenue,Service Revenue,17323.71,D01
+101084,2025-02-07,Revenue,Subscriptions,24920.81,D02
+101085,2025-04-07,Revenue,Subscriptions,15701.43,D03
+101086,2025-10-16,Revenue,Subscriptions,23779.18,D03
+101087,2025-09-11,Expense,Software Licenses,-12140.73,D02
+101088,2025-07-15,Revenue,Subscriptions,18163.97,D05
+101089,2025-03-27,Expense,Software Licenses,-5523.3,D02
+101090,2025-11-18,Expense,Office & Facilities,-5012.83,D05
+101091,2025-01-10,Expense,Marketing,-7117.96,D02
+101092,2025-01-05,Expense,Office & Facilities,-13680.08,D04
+101093,2025-05-03,Expense,Office & Facilities,-14071.37,D01
+101094,2025-11-26,Revenue,Subscriptions,18693.55,D01
+101095,2025-12-19,Expense,Software Licenses,-8861.11,D01
+101096,2025-04-28,Revenue,Product Revenue,2998.2,D04
+101097,2025-10-21,Revenue,Product Revenue,5442.63,D02
+101098,2025-06-08,Expense,Software Licenses,-8554.72,D04
+101099,2025-10-30,Expense,Payroll,-10078.26,D05
+101100,2025-08-16,Expense,Cloud Services,-15125.29,D02
+101101,2025-12-31,Revenue,Service Revenue,2452.88,D03
+101102,2025-08-04,Expense,Payroll,-8555.77,D04
+101103,2025-07-03,Revenue,Service Revenue,20922.28,D01
+101104,2025-01-15,Expense,Office & Facilities,-5520.23,D03
+101105,2025-06-06,Revenue,Product Revenue,24299.65,D05
+101106,2025-05-16,Expense,Software Licenses,-6420.89,D05
+101107,2025-09-18,Expense,Payroll,-5346.95,D03
+101108,2025-06-06,Revenue,Subscriptions,21080.29,D02
+101109,2025-02-16,Expense,Payroll,-16661.17,D02
+101110,2025-11-20,Expense,Office & Facilities,-7271.44,D01
+101111,2025-11-28,Expense,Marketing,-6870.39,D04
+101112,2025-06-22,Expense,Office & Facilities,-5340.5,D02
+101113,2025-05-10,Expense,Office & Facilities,-15242.68,D03
+101114,2025-04-05,Expense,Software Licenses,-5610.45,D04
+101115,2025-04-25,Revenue,Subscriptions,12164.3,D05
+101116,2025-08-31,Expense,Cloud Services,-15322.39,D01
+101117,2025-10-19,Revenue,Service Revenue,5644.25,D02
+101118,2025-10-09,Revenue,Product Revenue,11931.59,D01
+101119,2025-10-26,Expense,Software Licenses,-16160.98,D05
+101120,2025-10-10,Revenue,Subscriptions,7121.83,D02
+101121,2025-03-10,Expense,Office & Facilities,-12644.34,D05
+101122,2025-05-28,Expense,Cloud Services,-13660.97,D04
+101123,2025-01-11,Expense,Marketing,-1766.83,D02
+101124,2025-09-11,Expense,Marketing,-5497.95,D01
+101125,2025-11-26,Expense,Payroll,-4713.04,D05
+101126,2025-12-26,Expense,Office & Facilities,-14467.67,D01
+101127,2025-02-07,Expense,Marketing,-5850.46,D05
+101128,2025-05-14,Expense,Cloud Services,-11297.89,D04
+101129,2025-07-19,Revenue,Product Revenue,4966.13,D04
+101130,2025-01-23,Expense,Payroll,-17681.38,D04
+101131,2025-10-30,Expense,Cloud Services,-6437.08,D01
+101132,2025-12-12,Revenue,Service Revenue,23914.76,D04
+101133,2025-10-29,Expense,Payroll,-3943.14,D05
+101134,2025-12-29,Expense,Software Licenses,-10913.7,D03
+101135,2025-08-06,Expense,Marketing,-15249.49,D02
+101136,2025-05-21,Expense,Marketing,-5587.65,D05
+101137,2025-04-14,Revenue,Service Revenue,8293.41,D01
+101138,2025-07-29,Expense,Payroll,-10657.23,D01
+101139,2025-04-21,Revenue,Service Revenue,18232.13,D04
+101140,2025-04-14,Expense,Software Licenses,-3213.75,D01
+101141,2025-11-12,Revenue,Subscriptions,16172.9,D01
+101142,2025-06-20,Revenue,Product Revenue,24195.04,D03
+101143,2025-12-22,Expense,Software Licenses,-5164.42,D03
+101144,2025-11-20,Expense,Marketing,-3692.63,D02
+101145,2025-05-13,Expense,Payroll,-4591.29,D03
+101146,2025-10-20,Revenue,Product Revenue,23554.39,D02
+101147,2025-11-24,Revenue,Service Revenue,16290.51,D01
+101148,2025-05-07,Expense,Office & Facilities,-10752.32,D04
+101149,2025-04-16,Expense,Cloud Services,-10575.61,D03
+101150,2025-04-02,Expense,Software Licenses,-4876.42,D02
+101151,2025-10-14,Expense,Software Licenses,-10866.54,D02
+101152,2025-02-20,Expense,Cloud Services,-12757.21,D03
+101153,2025-01-29,Expense,Software Licenses,-13668.12,D01
+101154,2025-10-23,Expense,Software Licenses,-5589.27,D01
+101155,2025-10-24,Expense,Payroll,-11732.56,D03
+101156,2025-08-02,Expense,Software Licenses,-2691.67,D03
+101157,2025-09-24,Expense,Marketing,-16015.12,D05
+101158,2025-09-14,Revenue,Service Revenue,24354.89,D04
+101159,2025-10-29,Revenue,Product Revenue,21407.02,D04
+101160,2025-04-11,Revenue,Subscriptions,5900.17,D03
+101161,2025-12-12,Expense,Software Licenses,-13500.05,D01
+101162,2025-04-20,Expense,Software Licenses,-8269.07,D03
+101163,2025-07-01,Expense,Marketing,-12910.07,D01
+101164,2025-11-09,Revenue,Product Revenue,14843.99,D03
+101165,2025-01-01,Expense,Marketing,-2221.6,D05
+101166,2025-11-15,Expense,Cloud Services,-7569.75,D05
+101167,2025-02-24,Expense,Software Licenses,-17647.79,D05
+101168,2025-05-29,Expense,Software Licenses,-3634.06,D05
+101169,2025-11-05,Expense,Software Licenses,-16131.95,D05
+101170,2025-05-17,Revenue,Subscriptions,3374.22,D03
+101171,2025-07-21,Revenue,Product Revenue,13820.26,D05
+101172,2025-11-09,Revenue,Product Revenue,20042.84,D05
+101173,2025-04-27,Expense,Office & Facilities,-8274.15,D01
+101174,2025-06-03,Revenue,Subscriptions,23976.4,D04
+101175,2025-10-18,Expense,Marketing,-7090.85,D04
+101176,2025-03-04,Expense,Cloud Services,-6383.04,D01
+101177,2025-09-01,Expense,Cloud Services,-15464.5,D04
+101178,2025-01-25,Expense,Office & Facilities,-7555.01,D03
+101179,2025-03-31,Expense,Payroll,-5899.66,D02
+101180,2025-03-16,Expense,Cloud Services,-7609.33,D04
+101181,2025-10-21,Revenue,Product Revenue,16762.85,D04
+101182,2025-07-29,Expense,Payroll,-12647.47,D04
+101183,2025-12-13,Revenue,Service Revenue,3975.15,D05
+101184,2025-01-17,Expense,Marketing,-9988.75,D02
+101185,2025-05-08,Expense,Office & Facilities,-13559.68,D05
+101186,2025-12-30,Expense,Software Licenses,-5062.94,D04
+101187,2025-09-08,Expense,Payroll,-9002.16,D05
+101188,2025-06-28,Expense,Cloud Services,-9451.19,D05
+101189,2025-07-01,Expense,Cloud Services,-12013.88,D05
+101190,2025-06-01,Expense,Cloud Services,-15107.97,D03
+101191,2025-01-25,Expense,Marketing,-8684.56,D01
+101192,2025-06-29,Expense,Payroll,-9535.59,D04
+101193,2025-07-17,Revenue,Subscriptions,7135.14,D01
+101194,2025-12-10,Revenue,Product Revenue,6729.59,D05
+101195,2025-06-10,Revenue,Subscriptions,8516.89,D01
+101196,2025-06-26,Revenue,Subscriptions,21619.26,D01
+101197,2025-10-12,Revenue,Subscriptions,4320.68,D05
+101198,2025-03-04,Revenue,Product Revenue,11159.03,D02
+101199,2025-05-30,Expense,Payroll,-14829.5,D04
+101200,2025-06-03,Revenue,Product Revenue,10431.98,D01
+101201,2025-06-05,Revenue,Product Revenue,1715.22,D03
+101202,2025-02-18,Expense,Software Licenses,-6524.33,D02
+101203,2025-12-03,Revenue,Product Revenue,4999.19,D01
+101204,2025-03-25,Revenue,Service Revenue,19860.67,D03
+101205,2025-12-27,Revenue,Subscriptions,22027.9,D04
+101206,2025-06-26,Expense,Payroll,-13497.85,D04
+101207,2025-05-28,Revenue,Service Revenue,9117.62,D02
+101208,2025-04-28,Expense,Cloud Services,-9229.16,D01
+101209,2025-12-08,Expense,Software Licenses,-2070.35,D04
+101210,2025-03-04,Revenue,Subscriptions,17420.32,D02
+101211,2025-07-08,Expense,Software Licenses,-11155.21,D02
+101212,2025-12-26,Expense,Cloud Services,-2137.63,D04
+101213,2025-02-18,Expense,Software Licenses,-11554.63,D01
+101214,2025-11-23,Expense,Office & Facilities,-7351.6,D01
+101215,2025-09-14,Expense,Payroll,-2965.41,D05
+101216,2025-08-12,Revenue,Service Revenue,1285.15,D03
+101217,2025-05-21,Expense,Marketing,-5800.52,D02
+101218,2025-08-03,Expense,Office & Facilities,-13634.68,D04
+101219,2025-07-30,Expense,Office & Facilities,-8527.22,D05
+101220,2025-11-14,Expense,Office & Facilities,-13699.02,D02
+101221,2025-02-01,Revenue,Subscriptions,21988.66,D03
+101222,2025-06-07,Expense,Cloud Services,-9910.03,D01
+101223,2025-10-12,Expense,Marketing,-2730.64,D01
+101224,2025-11-01,Expense,Cloud Services,-7653.37,D05
+101225,2025-10-13,Expense,Software Licenses,-7112.41,D02
+101226,2025-05-24,Expense,Software Licenses,-10527.92,D01
+101227,2025-01-19,Expense,Software Licenses,-9449.18,D02
+101228,2025-01-18,Revenue,Product Revenue,11275.18,D05
+101229,2025-09-14,Revenue,Service Revenue,20663.54,D04
+101230,2025-03-19,Expense,Cloud Services,-13034.94,D02
+101231,2025-06-24,Revenue,Subscriptions,7738.72,D05
+101232,2025-07-13,Expense,Office & Facilities,-3432.93,D02
+101233,2025-04-23,Expense,Office & Facilities,-2384.28,D04
+101234,2025-04-24,Expense,Marketing,-12089.27,D01
+101235,2025-08-10,Expense,Cloud Services,-1617.15,D05
+101236,2025-06-15,Expense,Software Licenses,-17651.94,D03
+101237,2025-11-15,Expense,Payroll,-11798.83,D01
+101238,2025-05-12,Revenue,Product Revenue,12190.13,D04
+101239,2025-09-21,Expense,Office & Facilities,-6051.65,D02
+101240,2025-02-24,Expense,Payroll,-7204.94,D01
+101241,2025-12-25,Expense,Cloud Services,-15135.42,D04
+101242,2025-05-11,Expense,Software Licenses,-12530.23,D04
+101243,2025-10-15,Expense,Marketing,-5986.14,D04
+101244,2025-09-23,Revenue,Subscriptions,13913.72,D05
+101245,2025-06-11,Expense,Cloud Services,-16778.68,D01
+101246,2025-03-28,Revenue,Product Revenue,20137.82,D03
+101247,2025-02-24,Expense,Payroll,-7465.18,D01
+101248,2025-10-15,Revenue,Subscriptions,6228.08,D04
+101249,2025-06-27,Expense,Cloud Services,-9229.89,D01
+101250,2025-12-15,Expense,Cloud Services,-16434.6,D05
+101251,2025-01-08,Revenue,Service Revenue,7186.78,D01
+101252,2025-11-17,Expense,Office & Facilities,-15809.2,D01
+101253,2025-11-09,Expense,Cloud Services,-12466.12,D02
+101254,2025-09-04,Revenue,Service Revenue,16422.89,D02
+101255,2025-11-19,Expense,Marketing,-8302.58,D01
+101256,2025-09-12,Revenue,Subscriptions,21934.25,D05
+101257,2025-11-24,Revenue,Service Revenue,6249.89,D04
+101258,2025-02-23,Expense,Cloud Services,-6758.03,D05
+101259,2025-09-06,Revenue,Subscriptions,9863.85,D03
+101260,2025-08-27,Expense,Marketing,-9657.05,D05
+101261,2025-08-17,Revenue,Subscriptions,17369.57,D05
+101262,2025-03-08,Expense,Cloud Services,-14889.92,D05
+101263,2025-02-20,Revenue,Product Revenue,13396.9,D04
+101264,2025-04-07,Expense,Office & Facilities,-2367.14,D04
+101265,2025-04-02,Expense,Software Licenses,-8239.24,D01
+101266,2025-09-21,Revenue,Service Revenue,12050.8,D04
+101267,2025-10-18,Expense,Marketing,-2816.84,D01
+101268,2025-04-06,Revenue,Subscriptions,5144.83,D03
+101269,2025-03-29,Revenue,Product Revenue,3965.1,D04
+101270,2025-03-19,Expense,Cloud Services,-13095.71,D05
+101271,2025-10-15,Revenue,Subscriptions,21459.94,D03
+101272,2025-04-30,Expense,Office & Facilities,-4987.29,D03
+101273,2025-10-29,Expense,Payroll,-14643.0,D02
+101274,2025-06-14,Expense,Office & Facilities,-10241.49,D01
+101275,2025-07-01,Revenue,Subscriptions,5547.11,D04
+101276,2025-08-11,Expense,Payroll,-5276.3,D03
+101277,2025-11-07,Revenue,Service Revenue,12444.6,D01
+101278,2025-01-07,Revenue,Product Revenue,6018.73,D03
+101279,2025-11-26,Expense,Marketing,-14216.15,D05
+101280,2025-09-20,Expense,Marketing,-15751.99,D03
+101281,2025-06-10,Revenue,Subscriptions,16546.09,D05
+101282,2025-05-31,Expense,Marketing,-12823.62,D01
+101283,2025-03-26,Expense,Software Licenses,-5863.34,D04
+101284,2025-05-27,Revenue,Product Revenue,3740.8,D01
+101285,2025-04-22,Expense,Office & Facilities,-1329.06,D03
+101286,2025-02-05,Expense,Payroll,-11150.79,D05
+101287,2025-10-12,Revenue,Subscriptions,21556.48,D04
+101288,2025-07-07,Revenue,Product Revenue,16095.43,D03
+101289,2025-03-23,Expense,Software Licenses,-10926.41,D01
+101290,2025-01-02,Revenue,Subscriptions,2120.7,D05
+101291,2025-10-30,Expense,Payroll,-12769.31,D03
+101292,2025-07-16,Revenue,Product Revenue,14429.0,D04
+101293,2025-01-11,Revenue,Product Revenue,3101.47,D03
+101294,2025-08-22,Revenue,Product Revenue,12971.91,D02
+101295,2025-07-14,Expense,Marketing,-10917.35,D01
+101296,2025-04-29,Revenue,Service Revenue,6018.6,D04
+101297,2025-01-20,Revenue,Product Revenue,18259.79,D03
+101298,2025-09-18,Revenue,Subscriptions,11202.91,D04
+101299,2025-10-20,Revenue,Service Revenue,2534.71,D02
+101300,2025-09-13,Revenue,Subscriptions,24190.67,D04
+101301,2025-08-10,Expense,Payroll,-805.62,D04
+101302,2025-08-14,Revenue,Service Revenue,5071.16,D02
+101303,2025-02-22,Revenue,Subscriptions,23242.57,D05
+101304,2025-12-21,Revenue,Subscriptions,4978.44,D04
+101305,2025-12-08,Revenue,Product Revenue,14554.65,D03
+101306,2025-12-30,Revenue,Product Revenue,16920.67,D03
+101307,2025-10-07,Expense,Software Licenses,-2679.18,D02
+101308,2025-03-22,Expense,Office & Facilities,-3041.33,D04
+101309,2025-07-21,Expense,Payroll,-2950.39,D05
+101310,2025-06-07,Revenue,Subscriptions,22783.57,D01
+101311,2025-04-30,Expense,Marketing,-17733.7,D03
+101312,2025-02-28,Expense,Software Licenses,-13620.42,D01
+101313,2025-08-03,Expense,Office & Facilities,-12647.93,D04
+101314,2025-05-08,Expense,Payroll,-1002.9,D04
+101315,2025-08-12,Expense,Office & Facilities,-13322.2,D02
+101316,2025-07-28,Expense,Payroll,-8843.62,D01
+101317,2025-04-25,Revenue,Product Revenue,1515.79,D01
+101318,2025-07-28,Expense,Office & Facilities,-9290.41,D04
+101319,2025-01-14,Expense,Marketing,-6155.61,D01
+101320,2025-01-09,Revenue,Subscriptions,17864.46,D01
+101321,2025-02-09,Revenue,Product Revenue,9819.85,D03
+101322,2025-08-25,Revenue,Product Revenue,16470.56,D03
+101323,2025-10-08,Expense,Cloud Services,-1908.62,D03
+101324,2025-12-25,Revenue,Service Revenue,18394.58,D02
+101325,2025-07-20,Expense,Marketing,-5230.37,D05
+101326,2025-09-03,Expense,Cloud Services,-4807.38,D03
+101327,2025-10-05,Expense,Marketing,-4548.05,D05
+101328,2025-08-23,Expense,Marketing,-1779.56,D02
+101329,2025-01-04,Expense,Office & Facilities,-11979.88,D01
+101330,2025-06-03,Expense,Marketing,-14378.73,D04
+101331,2025-01-29,Expense,Marketing,-17470.47,D04
+101332,2025-04-19,Expense,Cloud Services,-8790.12,D05
+101333,2025-04-08,Expense,Office & Facilities,-13438.89,D03
+101334,2025-08-03,Revenue,Product Revenue,15633.7,D02
+101335,2025-10-20,Expense,Payroll,-11399.09,D04
+101336,2025-03-16,Expense,Software Licenses,-17097.13,D02
+101337,2025-11-22,Expense,Payroll,-10887.85,D01
+101338,2025-05-26,Expense,Payroll,-16097.91,D05
+101339,2025-05-08,Revenue,Service Revenue,7850.73,D01
+101340,2025-12-07,Expense,Office & Facilities,-9840.79,D05
+101341,2025-02-11,Revenue,Service Revenue,22635.63,D02
+101342,2025-12-22,Expense,Marketing,-7468.21,D02
+101343,2025-02-10,Expense,Cloud Services,-15421.82,D03
+101344,2025-02-03,Expense,Marketing,-16810.91,D01
+101345,2025-01-17,Expense,Office & Facilities,-12112.31,D01
+101346,2025-06-14,Expense,Marketing,-3325.9,D05
+101347,2025-06-02,Revenue,Service Revenue,2125.72,D05
+101348,2025-03-17,Expense,Software Licenses,-4197.83,D05
+101349,2025-03-28,Expense,Payroll,-11873.73,D02
+101350,2025-04-27,Expense,Payroll,-12603.75,D03
+101351,2025-12-28,Expense,Cloud Services,-2751.1,D04
+101352,2025-12-08,Expense,Software Licenses,-5220.37,D04
+101353,2025-01-27,Revenue,Product Revenue,11622.75,D02
+101354,2025-11-09,Revenue,Subscriptions,16756.53,D02
+101355,2025-10-14,Revenue,Product Revenue,19108.83,D01
+101356,2025-05-14,Expense,Payroll,-13840.13,D05
+101357,2025-08-07,Revenue,Subscriptions,10326.42,D04
+101358,2025-06-17,Expense,Office & Facilities,-7711.97,D03
+101359,2025-04-08,Expense,Cloud Services,-7092.98,D04
+101360,2025-09-25,Expense,Software Licenses,-10755.51,D04
+101361,2025-08-25,Expense,Marketing,-12892.54,D04
+101362,2025-11-05,Expense,Marketing,-7773.74,D02
+101363,2025-06-22,Expense,Software Licenses,-16630.6,D01
+101364,2025-07-09,Revenue,Service Revenue,4308.54,D02
+101365,2025-05-02,Revenue,Subscriptions,6528.75,D04
+101366,2025-02-15,Revenue,Service Revenue,5347.83,D04
+101367,2025-03-05,Expense,Software Licenses,-2432.48,D01
+101368,2025-05-10,Revenue,Subscriptions,1964.45,D03
+101369,2025-11-06,Revenue,Product Revenue,17930.58,D04
+101370,2025-12-29,Revenue,Subscriptions,2889.83,D05
+101371,2025-07-12,Revenue,Product Revenue,23579.52,D03
+101372,2025-11-03,Expense,Marketing,-9577.07,D03
+101373,2025-06-30,Expense,Marketing,-2869.49,D01
+101374,2025-10-19,Expense,Payroll,-3297.1,D01
+101375,2025-10-09,Revenue,Service Revenue,21538.65,D02
+101376,2025-01-29,Revenue,Subscriptions,14921.08,D01
+101377,2025-05-29,Expense,Software Licenses,-14140.89,D03
+101378,2025-09-24,Revenue,Product Revenue,2938.8,D05
+101379,2025-10-23,Expense,Cloud Services,-8259.44,D03
+101380,2025-01-11,Expense,Software Licenses,-12192.31,D04
+101381,2025-06-13,Revenue,Service Revenue,20439.08,D01
+101382,2025-04-23,Expense,Office & Facilities,-10369.29,D03
+101383,2025-07-06,Revenue,Product Revenue,17380.11,D04
+101384,2025-10-22,Expense,Office & Facilities,-13799.24,D04
+101385,2025-08-20,Revenue,Service Revenue,20518.78,D04
+101386,2025-08-15,Expense,Software Licenses,-12524.98,D01
+101387,2025-11-06,Expense,Office & Facilities,-17425.64,D04
+101388,2025-04-08,Expense,Office & Facilities,-4484.55,D05
+101389,2025-02-24,Expense,Cloud Services,-4391.66,D04
+101390,2025-04-21,Revenue,Product Revenue,22875.89,D05
+101391,2025-06-01,Expense,Payroll,-9714.76,D05
+101392,2025-09-03,Expense,Cloud Services,-13077.6,D03
+101393,2025-03-10,Expense,Payroll,-1655.11,D03
+101394,2025-11-08,Expense,Marketing,-14288.67,D05
+101395,2025-10-16,Expense,Office & Facilities,-2792.67,D05
+101396,2025-09-07,Expense,Cloud Services,-11734.3,D04
+101397,2025-02-05,Expense,Payroll,-10021.52,D02
+101398,2025-08-27,Expense,Cloud Services,-13086.56,D03
+101399,2025-05-28,Expense,Office & Facilities,-1312.77,D02
+101400,2025-08-15,Expense,Marketing,-11545.85,D04
