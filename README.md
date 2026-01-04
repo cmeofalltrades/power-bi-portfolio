@@ -27,9 +27,13 @@ I work across data, IT, and analytics, building solutions that help teams better
 - Analyzes revenue, profitability, and sales performance across time, regions, reps, products, and channels
 - Includes KPI tracking, sales trends, and actual vs target performance analysis
 - Skills: Power BI, DAX, KPI design, target modeling, star schema  
-👉 [View Project](./Project-02-Sales-Performance)
+👉 [View Project](./Project-03-Sales-Performance)
 
-### 4. Financial Overview Dashboard *(Coming Soon)*
+### 4. Financial Overview Dashboard
+- Analyzes revenue, expenses, net profit, and budget performance across departments and time
+- Includes expense trends, category breakdowns, and budget vs actual variance analysis
+- Skills: Power BI, DAX, financial KPIs, budget modeling, star schema  
+👉 [View Project](./Project-04-Financial-Overview)
 
 ### 5. Executive KPI Dashboard *(Coming Soon)*
 
