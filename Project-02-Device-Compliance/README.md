@@ -86,7 +86,7 @@ Monitor patch backlog, identify at-risk devices, and measure patching SLA perfor
 ---
 
 ## Screenshots
-Screenshots of both dashboard pages are included in the [images](./images) folder.
+Screenshots of both dashboard pages are included in the [screenshots](./screenshots) folder.
 
 ---
 
