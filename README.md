@@ -35,8 +35,6 @@ I work across data, IT, and analytics, building solutions that help teams better
 - Skills: Power BI, DAX, financial KPIs, budget modeling, star schema  
 👉 [View Project](./Project-04-Financial-Overview)
 
-### 5. Executive KPI Dashboard *(Coming Soon)*
-
 ## Contact
 - Email: cmemerson12@gmail.com
 - LinkedIn: www.linkedin.com/in/cierra-emerson
